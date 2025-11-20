@@ -1,0 +1,2907 @@
+﻿[INFO] Scanning for projects...
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-dependency-plugin/3.5.0/maven-dependency-plugin-3.5.0.pom
+Progress (1): 740 B
+Progress (1): 1.7 kB
+Progress (1): 3.5 kB
+Progress (1): 8.2 kB
+Progress (1): 11 kB 
+Progress (1): 14 kB
+Progress (1): 16 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-dependency-plugin/3.5.0/maven-dependency-plugin-3.5.0.pom (16 kB at 40 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/38/maven-plugins-38.pom
+Progress (1): 762 B
+Progress (1): 1.8 kB
+Progress (1): 4.2 kB
+Progress (1): 6.6 kB
+Progress (1): 8.1 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/38/maven-plugins-38.pom (8.1 kB at 117 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/38/maven-parent-38.pom
+Progress (1): 720 B
+Progress (1): 1.9 kB
+Progress (1): 3.9 kB
+Progress (1): 8.3 kB
+Progress (1): 13 kB 
+Progress (1): 16 kB
+Progress (1): 21 kB
+Progress (1): 25 kB
+Progress (1): 27 kB
+Progress (1): 28 kB
+Progress (1): 31 kB
+Progress (1): 33 kB
+Progress (1): 36 kB
+Progress (1): 40 kB
+Progress (1): 41 kB
+Progress (1): 46 kB
+Progress (1): 48 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/38/maven-parent-38.pom (48 kB at 1.3 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/apache/28/apache-28.pom
+Progress (1): 743 B
+Progress (1): 2.1 kB
+Progress (1): 3.3 kB
+Progress (1): 5.2 kB
+Progress (1): 10 kB 
+Progress (1): 13 kB
+Progress (1): 17 kB
+Progress (1): 20 kB
+Progress (1): 21 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/apache/28/apache-28.pom (21 kB at 576 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-dependency-plugin/3.5.0/maven-dependency-plugin-3.5.0.jar
+Progress (1): 0.9/189 kB
+Progress (1): 2.3/189 kB
+Progress (1): 3.6/189 kB
+Progress (1): 5.0/189 kB
+Progress (1): 6.4/189 kB
+Progress (1): 7.7/189 kB
+Progress (1): 9.1/189 kB
+Progress (1): 10/189 kB 
+Progress (1): 12/189 kB
+Progress (1): 13/189 kB
+Progress (1): 15/189 kB
+Progress (1): 16/189 kB
+Progress (1): 17/189 kB
+Progress (1): 19/189 kB
+Progress (1): 20/189 kB
+Progress (1): 20/189 kB
+Progress (1): 21/189 kB
+Progress (1): 23/189 kB
+Progress (1): 24/189 kB
+Progress (1): 26/189 kB
+Progress (1): 30/189 kB
+Progress (1): 34/189 kB
+Progress (1): 38/189 kB
+Progress (1): 42/189 kB
+Progress (1): 47/189 kB
+Progress (1): 51/189 kB
+Progress (1): 55/189 kB
+Progress (1): 59/189 kB
+Progress (1): 64/189 kB
+Progress (1): 68/189 kB
+Progress (1): 72/189 kB
+Progress (1): 76/189 kB
+Progress (1): 81/189 kB
+Progress (1): 85/189 kB
+Progress (1): 89/189 kB
+Progress (1): 93/189 kB
+Progress (1): 97/189 kB
+Progress (1): 102/189 kB
+Progress (1): 106/189 kB
+Progress (1): 110/189 kB
+Progress (1): 114/189 kB
+Progress (1): 119/189 kB
+Progress (1): 123/189 kB
+Progress (1): 127/189 kB
+Progress (1): 131/189 kB
+Progress (1): 136/189 kB
+Progress (1): 140/189 kB
+Progress (1): 144/189 kB
+Progress (1): 148/189 kB
+Progress (1): 151/189 kB
+Progress (1): 155/189 kB
+Progress (1): 160/189 kB
+Progress (1): 164/189 kB
+Progress (1): 168/189 kB
+Progress (1): 172/189 kB
+Progress (1): 177/189 kB
+Progress (1): 181/189 kB
+Progress (1): 185/189 kB
+Progress (1): 189 kB    
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-dependency-plugin/3.5.0/maven-dependency-plugin-3.5.0.jar (189 kB at 3.5 MB/s)
+[INFO] 
+[INFO] ---------------------< com.myproject:desafio-itau >---------------------
+[INFO] Building desafio-itau 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- dependency:3.5.0:tree (default-cli) @ desafio-itau ---
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-impl/3.2.0/maven-reporting-impl-3.2.0.pom
+Progress (1): 780 B
+Progress (1): 2.2 kB
+Progress (1): 5.3 kB
+Progress (1): 7.5 kB
+Progress (1): 7.6 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-impl/3.2.0/maven-reporting-impl-3.2.0.pom (7.6 kB at 223 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/3.1.1/maven-reporting-api-3.1.1.pom
+Progress (1): 778 B
+Progress (1): 2.2 kB
+Progress (1): 3.8 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/3.1.1/maven-reporting-api-3.1.1.pom (3.8 kB at 105 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.11.1/doxia-sink-api-1.11.1.pom
+Progress (1): 819 B
+Progress (1): 1.6 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.11.1/doxia-sink-api-1.11.1.pom (1.6 kB at 40 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia/1.11.1/doxia-1.11.1.pom
+Progress (1): 745 B
+Progress (1): 2.2 kB
+Progress (1): 3.7 kB
+Progress (1): 8.9 kB
+Progress (1): 12 kB 
+Progress (1): 16 kB
+Progress (1): 18 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia/1.11.1/doxia-1.11.1.pom (18 kB at 515 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-logging-api/1.11.1/doxia-logging-api-1.11.1.pom
+Progress (1): 820 B
+Progress (1): 1.6 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-logging-api/1.11.1/doxia-logging-api-1.11.1.pom (1.6 kB at 38 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.1.0/maven-core-3.1.0.pom
+Progress (1): 802 B
+Progress (1): 3.9 kB
+Progress (1): 6.3 kB
+Progress (1): 6.9 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.1.0/maven-core-3.1.0.pom (6.9 kB at 178 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.1.0/maven-3.1.0.pom
+Progress (1): 774 B
+Progress (1): 1.9 kB
+Progress (1): 3.7 kB
+Progress (1): 7.8 kB
+Progress (1): 13 kB 
+Progress (1): 17 kB
+Progress (1): 19 kB
+Progress (1): 22 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.1.0/maven-3.1.0.pom (22 kB at 559 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.1.0/maven-model-3.1.0.pom
+Progress (1): 809 B
+Progress (1): 2.6 kB
+Progress (1): 3.8 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.1.0/maven-model-3.1.0.pom (3.8 kB at 109 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.1.0/maven-settings-3.1.0.pom
+Progress (1): 831 B
+Progress (1): 1.8 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.1.0/maven-settings-3.1.0.pom (1.8 kB at 50 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.1.0/maven-settings-builder-3.1.0.pom
+Progress (1): 816 B
+Progress (1): 2.3 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.1.0/maven-settings-builder-3.1.0.pom (2.3 kB at 59 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.16/plexus-interpolation-1.16.pom
+Progress (1): 1.0 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.16/plexus-interpolation-1.16.pom (1.0 kB at 31 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.3/plexus-components-1.3.pom
+Progress (1): 1.3 kB
+Progress (1): 3.1 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.3/plexus-components-1.3.pom (3.1 kB at 87 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.3/plexus-3.3.pom
+Progress (1): 706 B
+Progress (1): 2.6 kB
+Progress (1): 6.2 kB
+Progress (1): 8.7 kB
+Progress (1): 11 kB 
+Progress (1): 16 kB
+Progress (1): 20 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.3/plexus-3.3.pom (20 kB at 603 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/17/spice-parent-17.pom
+Progress (1): 1.1 kB
+Progress (1): 3.4 kB
+Progress (1): 6.7 kB
+Progress (1): 6.8 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/17/spice-parent-17.pom (6.8 kB at 211 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/10/forge-parent-10.pom
+Progress (1): 743 B
+Progress (1): 2.6 kB
+Progress (1): 8.7 kB
+Progress (1): 13 kB 
+Progress (1): 14 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/10/forge-parent-10.pom (14 kB at 315 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.pom
+Progress (1): 815 B
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.pom (815 B at 24 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.5.5/plexus-containers-1.5.5.pom
+Progress (1): 1.3 kB
+Progress (1): 4.2 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.5.5/plexus-containers-1.5.5.pom (4.2 kB at 109 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/2.0.7/plexus-2.0.7.pom
+Progress (1): 707 B
+Progress (1): 2.7 kB
+Progress (1): 6.4 kB
+Progress (1): 9.1 kB
+Progress (1): 13 kB 
+Progress (1): 17 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/2.0.7/plexus-2.0.7.pom (17 kB at 480 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.pom
+Progress (1): 1.3 kB
+Progress (1): 3.0 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.pom (3.0 kB at 85 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/12/spice-parent-12.pom
+Progress (1): 1.2 kB
+Progress (1): 4.2 kB
+Progress (1): 6.8 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/12/spice-parent-12.pom (6.8 kB at 200 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/4/forge-parent-4.pom
+Progress (1): 1.4 kB
+Progress (1): 5.8 kB
+Progress (1): 8.4 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/4/forge-parent-4.pom (8.4 kB at 254 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.pom
+Progress (1): 1.3 kB
+Progress (1): 2.1 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.pom (2.1 kB at 59 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.1.0/maven-repository-metadata-3.1.0.pom
+Progress (1): 830 B
+Progress (1): 1.9 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.1.0/maven-repository-metadata-3.1.0.pom (1.9 kB at 36 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.1.0/maven-artifact-3.1.0.pom
+Progress (1): 855 B
+Progress (1): 1.6 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.1.0/maven-artifact-3.1.0.pom (1.6 kB at 35 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.1.0/maven-plugin-api-3.1.0.pom
+Progress (1): 808 B
+Progress (1): 2.7 kB
+Progress (1): 3.0 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.1.0/maven-plugin-api-3.1.0.pom (3.0 kB at 92 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.plexus/0.3.0.M1/org.eclipse.sisu.plexus-0.3.0.M1.pom
+Progress (1): 884 B
+Progress (1): 3.4 kB
+Progress (1): 4.7 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.plexus/0.3.0.M1/org.eclipse.sisu.plexus-0.3.0.M1.pom (4.7 kB at 134 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/sisu/sisu-plexus/0.3.0.M1/sisu-plexus-0.3.0.M1.pom
+Progress (1): 844 B
+Progress (1): 2.9 kB
+Progress (1): 5.2 kB
+Progress (1): 9.5 kB
+Progress (1): 11 kB 
+Progress (1): 13 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/sisu/sisu-plexus/0.3.0.M1/sisu-plexus-0.3.0.M1.pom (13 kB at 323 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0.pom
+Progress (1): 1.4 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0.pom (1.4 kB at 28 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/jboss/weld/weld-api-parent/1.0/weld-api-parent-1.0.pom
+Progress (1): 1.1 kB
+Progress (1): 2.4 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/jboss/weld/weld-api-parent/1.0/weld-api-parent-1.0.pom (2.4 kB at 65 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/jboss/weld/weld-api-bom/1.0/weld-api-bom-1.0.pom
+Progress (1): 974 B
+Progress (1): 3.4 kB
+Progress (1): 7.9 kB
+Progress (1): 7.9 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/jboss/weld/weld-api-bom/1.0/weld-api-bom-1.0.pom (7.9 kB at 255 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/jboss/weld/weld-parent/6/weld-parent-6.pom
+Progress (1): 1.1 kB
+Progress (1): 3.6 kB
+Progress (1): 7.1 kB
+Progress (1): 13 kB 
+Progress (1): 17 kB
+Progress (1): 20 kB
+Progress (1): 21 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/jboss/weld/weld-parent/6/weld-parent-6.pom (21 kB at 667 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.pom
+Progress (1): 1.0 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.pom (1.0 kB at 23 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.3.0.M1/org.eclipse.sisu.inject-0.3.0.M1.pom
+Progress (1): 902 B
+Progress (1): 2.5 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.3.0.M1/org.eclipse.sisu.inject-0.3.0.M1.pom (2.5 kB at 69 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/sisu/sisu-inject/0.3.0.M1/sisu-inject-0.3.0.M1.pom
+Progress (1): 856 B
+Progress (1): 2.8 kB
+Progress (1): 5.0 kB
+Progress (1): 9.3 kB
+Progress (1): 11 kB 
+Progress (1): 14 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/sisu/sisu-inject/0.3.0.M1/sisu-inject-0.3.0.M1.pom (14 kB at 408 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.1/plexus-classworlds-2.5.1.pom
+Progress (1): 923 B
+Progress (1): 3.0 kB
+Progress (1): 5.0 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.1/plexus-classworlds-2.5.1.pom (5.0 kB at 157 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.3.1/plexus-3.3.1.pom
+Progress (1): 704 B
+Progress (1): 2.6 kB
+Progress (1): 6.1 kB
+Progress (1): 8.6 kB
+Progress (1): 11 kB 
+Progress (1): 16 kB
+Progress (1): 20 kB
+Progress (1): 20 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.3.1/plexus-3.3.1.pom (20 kB at 584 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.1.0/maven-model-builder-3.1.0.pom
+Progress (1): 833 B
+Progress (1): 2.5 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.1.0/maven-model-builder-3.1.0.pom (2.5 kB at 73 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.1.0/maven-aether-provider-3.1.0.pom
+Progress (1): 804 B
+Progress (1): 3.5 kB
+Progress (1): 3.5 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.1.0/maven-aether-provider-3.1.0.pom (3.5 kB at 95 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/0.9.0.M2/aether-api-0.9.0.M2.pom
+Progress (1): 936 B
+Progress (1): 1.7 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/0.9.0.M2/aether-api-0.9.0.M2.pom (1.7 kB at 60 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether/0.9.0.M2/aether-0.9.0.M2.pom
+Progress (1): 814 B
+Progress (1): 3.2 kB
+Progress (1): 6.3 kB
+Progress (1): 10 kB 
+Progress (1): 13 kB
+Progress (1): 17 kB
+Progress (1): 20 kB
+Progress (1): 24 kB
+Progress (1): 28 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether/0.9.0.M2/aether-0.9.0.M2.pom (28 kB at 845 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/0.9.0.M2/aether-spi-0.9.0.M2.pom
+Progress (1): 936 B
+Progress (1): 1.8 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/0.9.0.M2/aether-spi-0.9.0.M2.pom (1.8 kB at 57 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-util/0.9.0.M2/aether-util-0.9.0.M2.pom
+Progress (1): 933 B
+Progress (1): 2.0 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-util/0.9.0.M2/aether-util-0.9.0.M2.pom (2.0 kB at 48 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl/0.9.0.M2/aether-impl-0.9.0.M2.pom
+Progress (1): 938 B
+Progress (1): 3.3 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl/0.9.0.M2/aether-impl-0.9.0.M2.pom (3.3 kB at 115 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.4.2/plexus-classworlds-2.4.2.pom
+Progress (1): 933 B
+Progress (1): 3.0 kB
+Progress (1): 3.5 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.4.2/plexus-classworlds-2.4.2.pom (3.5 kB at 84 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.0.1/plexus-3.0.1.pom
+Progress (1): 707 B
+Progress (1): 2.6 kB
+Progress (1): 6.2 kB
+Progress (1): 8.8 kB
+Progress (1): 13 kB 
+Progress (1): 17 kB
+Progress (1): 19 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.0.1/plexus-3.0.1.pom (19 kB at 665 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.3.4/maven-shared-utils-3.3.4.pom
+Progress (1): 788 B
+Progress (1): 2.3 kB
+Progress (1): 4.3 kB
+Progress (1): 5.8 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.3.4/maven-shared-utils-3.3.4.pom (5.8 kB at 194 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-io/commons-io/2.6/commons-io-2.6.pom
+Progress (1): 789 B
+Progress (1): 2.1 kB
+Progress (1): 5.3 kB
+Progress (1): 7.5 kB
+Progress (1): 9.6 kB
+Progress (1): 12 kB 
+Progress (1): 14 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/commons-io/commons-io/2.6/commons-io-2.6.pom (14 kB at 264 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/42/commons-parent-42.pom
+Progress (1): 718 B
+Progress (1): 1.9 kB
+Progress (1): 3.1 kB
+Progress (1): 4.5 kB
+Progress (1): 5.9 kB
+Progress (1): 7.5 kB
+Progress (1): 11 kB 
+Progress (1): 14 kB
+Progress (1): 17 kB
+Progress (1): 21 kB
+Progress (1): 24 kB
+Progress (1): 26 kB
+Progress (1): 29 kB
+Progress (1): 31 kB
+Progress (1): 34 kB
+Progress (1): 37 kB
+Progress (1): 40 kB
+Progress (1): 44 kB
+Progress (1): 48 kB
+Progress (1): 53 kB
+Progress (1): 55 kB
+Progress (1): 59 kB
+Progress (1): 60 kB
+Progress (1): 62 kB
+Progress (1): 65 kB
+Progress (1): 66 kB
+Progress (1): 68 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/42/commons-parent-42.pom (68 kB at 1.5 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/2.1.0/plexus-container-default-2.1.0.pom
+Progress (1): 1.7 kB
+Progress (1): 3.0 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/2.1.0/plexus-container-default-2.1.0.pom (3.0 kB at 67 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/xbean/xbean-reflect/3.7/xbean-reflect-3.7.pom
+Progress (1): 815 B
+Progress (1): 2.9 kB
+Progress (1): 5.1 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/xbean/xbean-reflect/3.7/xbean-reflect-3.7.pom (5.1 kB at 134 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/xbean/xbean/3.7/xbean-3.7.pom
+Progress (1): 905 B
+Progress (1): 2.2 kB
+Progress (1): 5.4 kB
+Progress (1): 11 kB 
+Progress (1): 14 kB
+Progress (1): 15 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/xbean/xbean/3.7/xbean-3.7.pom (15 kB at 417 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/genesis-java5-flava/2.0/genesis-java5-flava-2.0.pom
+Progress (1): 817 B
+Progress (1): 3.0 kB
+Progress (1): 5.5 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/genesis-java5-flava/2.0/genesis-java5-flava-2.0.pom (5.5 kB at 183 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/genesis-default-flava/2.0/genesis-default-flava-2.0.pom
+Progress (1): 797 B
+Progress (1): 2.1 kB
+Progress (1): 6.4 kB
+Progress (1): 9.8 kB
+Progress (1): 15 kB 
+Progress (1): 18 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/genesis-default-flava/2.0/genesis-default-flava-2.0.pom (18 kB at 557 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/genesis/2.0/genesis-2.0.pom
+Progress (1): 798 B
+Progress (1): 2.2 kB
+Progress (1): 4.6 kB
+Progress (1): 8.9 kB
+Progress (1): 15 kB 
+Progress (1): 18 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/genesis/2.0/genesis-2.0.pom (18 kB at 472 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/google/collections/google-collections/1.0/google-collections-1.0.pom
+Progress (1): 1.2 kB
+Progress (1): 2.5 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/com/google/collections/google-collections/1.0/google-collections-1.0.pom (2.5 kB at 59 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/google/google/1/google-1.pom
+Progress (1): 1.2 kB
+Progress (1): 1.6 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/com/google/google/1/google-1.pom (1.6 kB at 39 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-decoration-model/1.11.1/doxia-decoration-model-1.11.1.pom
+Progress (1): 786 B
+Progress (1): 2.4 kB
+Progress (1): 3.4 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-decoration-model/1.11.1/doxia-decoration-model-1.11.1.pom (3.4 kB at 76 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sitetools/1.11.1/doxia-sitetools-1.11.1.pom
+Progress (1): 746 B
+Progress (1): 2.2 kB
+Progress (1): 6.2 kB
+Progress (1): 9.5 kB
+Progress (1): 14 kB 
+Progress (1): 14 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sitetools/1.11.1/doxia-sitetools-1.11.1.pom (14 kB at 425 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-core/1.11.1/doxia-core-1.11.1.pom
+Progress (1): 785 B
+Progress (1): 3.2 kB
+Progress (1): 4.5 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-core/1.11.1/doxia-core-1.11.1.pom (4.5 kB at 126 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.pom
+Progress (1): 751 B
+Progress (1): 2.1 kB
+Progress (1): 5.4 kB
+Progress (1): 9.0 kB
+Progress (1): 12 kB 
+Progress (1): 15 kB
+Progress (1): 16 kB
+Progress (1): 18 kB
+Progress (1): 21 kB
+Progress (1): 25 kB
+Progress (1): 27 kB
+Progress (1): 28 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.pom (28 kB at 900 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.3/commons-text-1.3.pom
+Progress (1): 769 B
+Progress (1): 2.2 kB
+Progress (1): 4.3 kB
+Progress (1): 7.4 kB
+Progress (1): 11 kB 
+Progress (1): 13 kB
+Progress (1): 14 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.3/commons-text-1.3.pom (14 kB at 446 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/45/commons-parent-45.pom
+Progress (1): 713 B
+Progress (1): 1.9 kB
+Progress (1): 3.2 kB
+Progress (1): 4.8 kB
+Progress (1): 6.6 kB
+Progress (1): 7.9 kB
+Progress (1): 9.5 kB
+Progress (1): 13 kB 
+Progress (1): 16 kB
+Progress (1): 20 kB
+Progress (1): 23 kB
+Progress (1): 26 kB
+Progress (1): 29 kB
+Progress (1): 31 kB
+Progress (1): 34 kB
+Progress (1): 37 kB
+Progress (1): 41 kB
+Progress (1): 43 kB
+Progress (1): 46 kB
+Progress (1): 51 kB
+Progress (1): 57 kB
+Progress (1): 60 kB
+Progress (1): 63 kB
+Progress (1): 65 kB
+Progress (1): 67 kB
+Progress (1): 70 kB
+Progress (1): 71 kB
+Progress (1): 73 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/45/commons-parent-45.pom (73 kB at 2.0 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.pom
+Progress (1): 742 B
+Progress (1): 2.1 kB
+Progress (1): 5.4 kB
+Progress (1): 9.2 kB
+Progress (1): 13 kB 
+Progress (1): 15 kB
+Progress (1): 17 kB
+Progress (1): 19 kB
+Progress (1): 22 kB
+Progress (1): 26 kB
+Progress (1): 28 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.pom (28 kB at 918 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.pom
+Progress (1): 863 B
+Progress (1): 2.8 kB
+Progress (1): 5.1 kB
+Progress (1): 6.6 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.pom (6.6 kB at 213 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.5.13/httpcomponents-client-4.5.13.pom
+Progress (1): 840 B
+Progress (1): 2.3 kB
+Progress (1): 5.1 kB
+Progress (1): 8.6 kB
+Progress (1): 11 kB 
+Progress (1): 15 kB
+Progress (1): 16 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.5.13/httpcomponents-client-4.5.13.pom (16 kB at 482 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-parent/11/httpcomponents-parent-11.pom
+Progress (1): 797 B
+Progress (1): 2.2 kB
+Progress (1): 3.7 kB
+Progress (1): 5.3 kB
+Progress (1): 6.5 kB
+Progress (1): 8.7 kB
+Progress (1): 12 kB 
+Progress (1): 15 kB
+Progress (1): 18 kB
+Progress (1): 23 kB
+Progress (1): 26 kB
+Progress (1): 27 kB
+Progress (1): 32 kB
+Progress (1): 34 kB
+Progress (1): 35 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-parent/11/httpcomponents-parent-11.pom (35 kB at 991 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.pom
+Progress (1): 863 B
+Progress (1): 2.5 kB
+Progress (1): 4.9 kB
+Progress (1): 5.0 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.pom (5.0 kB at 160 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.13/httpcomponents-core-4.4.13.pom
+Progress (1): 844 B
+Progress (1): 2.3 kB
+Progress (1): 4.5 kB
+Progress (1): 7.2 kB
+Progress (1): 11 kB 
+Progress (1): 13 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.13/httpcomponents-core-4.4.13.pom (13 kB at 399 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11.pom
+Progress (1): 746 B
+Progress (1): 2.0 kB
+Progress (1): 4.1 kB
+Progress (1): 6.5 kB
+Progress (1): 8.5 kB
+Progress (1): 11 kB 
+Progress (1): 14 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11.pom (14 kB at 388 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.pom
+Progress (1): 863 B
+Progress (1): 2.5 kB
+Progress (1): 4.9 kB
+Progress (1): 5.0 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.pom (5.0 kB at 142 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.14/httpcomponents-core-4.4.14.pom
+Progress (1): 837 B
+Progress (1): 2.3 kB
+Progress (1): 4.5 kB
+Progress (1): 7.1 kB
+Progress (1): 11 kB 
+Progress (1): 13 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.14/httpcomponents-core-4.4.14.pom (13 kB at 454 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-integration-tools/1.11.1/doxia-integration-tools-1.11.1.pom
+Progress (1): 798 B
+Progress (1): 3.3 kB
+Progress (1): 6.0 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-integration-tools/1.11.1/doxia-integration-tools-1.11.1.pom (6.0 kB at 216 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/3.0/maven-reporting-api-3.0.pom
+Progress (1): 814 B
+Progress (1): 2.4 kB
+Progress (1): 2.4 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/3.0/maven-reporting-api-3.0.pom (2.4 kB at 56 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/15/maven-shared-components-15.pom
+Progress (1): 760 B
+Progress (1): 2.7 kB
+Progress (1): 6.4 kB
+Progress (1): 9.1 kB
+Progress (1): 9.3 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/15/maven-shared-components-15.pom (9.3 kB at 252 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/16/maven-parent-16.pom
+Progress (1): 746 B
+Progress (1): 1.9 kB
+Progress (1): 6.6 kB
+Progress (1): 11 kB 
+Progress (1): 15 kB
+Progress (1): 17 kB
+Progress (1): 21 kB
+Progress (1): 23 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/16/maven-parent-16.pom (23 kB at 751 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.0/doxia-sink-api-1.0.pom
+Progress (1): 831 B
+Progress (1): 1.4 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.0/doxia-sink-api-1.0.pom (1.4 kB at 35 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia/1.0/doxia-1.0.pom
+Progress (1): 760 B
+Progress (1): 2.2 kB
+Progress (1): 5.7 kB
+Progress (1): 8.8 kB
+Progress (1): 9.6 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia/1.0/doxia-1.0.pom (9.6 kB at 284 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/10/maven-parent-10.pom
+Progress (1): 733 B
+Progress (1): 1.9 kB
+Progress (1): 6.2 kB
+Progress (1): 11 kB 
+Progress (1): 14 kB
+Progress (1): 16 kB
+Progress (1): 22 kB
+Progress (1): 25 kB
+Progress (1): 30 kB
+Progress (1): 32 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/10/maven-parent-10.pom (32 kB at 855 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.2.1/maven-artifact-2.2.1.pom
+Progress (1): 820 B
+Progress (1): 1.6 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.2.1/maven-artifact-2.2.1.pom (1.6 kB at 51 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven/2.2.1/maven-2.2.1.pom
+Progress (1): 735 B
+Progress (1): 1.9 kB
+Progress (1): 5.8 kB
+Progress (1): 9.1 kB
+Progress (1): 12 kB 
+Progress (1): 18 kB
+Progress (1): 22 kB
+Progress (1): 22 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven/2.2.1/maven-2.2.1.pom (22 kB at 622 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/11/maven-parent-11.pom
+Progress (1): 714 B
+Progress (1): 1.9 kB
+Progress (1): 6.1 kB
+Progress (1): 11 kB 
+Progress (1): 14 kB
+Progress (1): 17 kB
+Progress (1): 23 kB
+Progress (1): 26 kB
+Progress (1): 31 kB
+Progress (1): 32 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/11/maven-parent-11.pom (32 kB at 1.0 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/apache/5/apache-5.pom
+Progress (1): 770 B
+Progress (1): 2.0 kB
+Progress (1): 4.1 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/apache/5/apache-5.pom (4.1 kB at 71 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.pom
+Progress (1): 802 B
+Progress (1): 2.9 kB
+Progress (1): 3.2 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.pom (3.2 kB at 90 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.2.1/maven-plugin-api-2.2.1.pom
+Progress (1): 820 B
+Progress (1): 1.5 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.2.1/maven-plugin-api-2.2.1.pom (1.5 kB at 44 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9/plexus-container-default-1.0-alpha-9.pom
+Progress (1): 1.2 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9/plexus-container-default-1.0-alpha-9.pom (1.2 kB at 37 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.0.3/plexus-containers-1.0.3.pom
+Progress (1): 492 B
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.0.3/plexus-containers-1.0.3.pom (492 B at 12 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.4/plexus-1.0.4.pom
+Progress (1): 1.5 kB
+Progress (1): 4.6 kB
+Progress (1): 5.7 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.4/plexus-1.0.4.pom (5.7 kB at 169 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1.pom
+Progress (1): 998 B
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1.pom (998 B at 31 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.pom
+Progress (1): 2.0 kB
+Progress (1): 3.1 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.pom (3.1 kB at 89 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-site-renderer/1.11.1/doxia-site-renderer-1.11.1.pom
+Progress (1): 766 B
+Progress (1): 3.0 kB
+Progress (1): 7.3 kB
+Progress (1): 7.7 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-site-renderer/1.11.1/doxia-site-renderer-1.11.1.pom (7.7 kB at 233 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.0/maven-artifact-3.0.pom
+Progress (1): 850 B
+Progress (1): 1.9 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.0/maven-artifact-3.0.pom (1.9 kB at 58 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-skin-model/1.11.1/doxia-skin-model-1.11.1.pom
+Progress (1): 791 B
+Progress (1): 2.2 kB
+Progress (1): 3.0 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-skin-model/1.11.1/doxia-skin-model-1.11.1.pom (3.0 kB at 108 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-xhtml/1.11.1/doxia-module-xhtml-1.11.1.pom
+Progress (1): 820 B
+Progress (1): 2.0 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-xhtml/1.11.1/doxia-module-xhtml-1.11.1.pom (2.0 kB at 71 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-modules/1.11.1/doxia-modules-1.11.1.pom
+Progress (1): 789 B
+Progress (1): 2.7 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-modules/1.11.1/doxia-modules-1.11.1.pom (2.7 kB at 91 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-xhtml5/1.11.1/doxia-module-xhtml5-1.11.1.pom
+Progress (1): 799 B
+Progress (1): 2.0 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-xhtml5/1.11.1/doxia-module-xhtml5-1.11.1.pom (2.0 kB at 62 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-30/plexus-container-default-1.0-alpha-30.pom
+Progress (1): 1.5 kB
+Progress (1): 3.5 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-30/plexus-container-default-1.0-alpha-30.pom (3.5 kB at 112 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.0-alpha-30/plexus-containers-1.0-alpha-30.pom
+Progress (1): 1.6 kB
+Progress (1): 1.9 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.0-alpha-30/plexus-containers-1.0-alpha-30.pom (1.9 kB at 40 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.11/plexus-1.0.11.pom
+Progress (1): 1.2 kB
+Progress (1): 4.4 kB
+Progress (1): 7.6 kB
+Progress (1): 9.0 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.11/plexus-1.0.11.pom (9.0 kB at 320 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/1.2-alpha-9/plexus-classworlds-1.2-alpha-9.pom
+Progress (1): 933 B
+Progress (1): 2.9 kB
+Progress (1): 3.2 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/1.2-alpha-9/plexus-classworlds-1.2-alpha-9.pom (3.2 kB at 98 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-velocity/1.2/plexus-velocity-1.2.pom
+Progress (1): 830 B
+Progress (1): 2.7 kB
+Progress (1): 2.8 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-velocity/1.2/plexus-velocity-1.2.pom (2.8 kB at 78 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/4.0/plexus-components-4.0.pom
+Progress (1): 1.3 kB
+Progress (1): 2.7 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/4.0/plexus-components-4.0.pom (2.7 kB at 89 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/4.0/plexus-4.0.pom
+Progress (1): 701 B
+Progress (1): 2.5 kB
+Progress (1): 6.4 kB
+Progress (1): 9.2 kB
+Progress (1): 12 kB 
+Progress (1): 16 kB
+Progress (1): 21 kB
+Progress (1): 22 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/4.0/plexus-4.0.pom (22 kB at 632 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.pom
+Progress (1): 2.1 kB
+Progress (1): 3.9 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.pom (3.9 kB at 120 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.1/commons-collections-3.1.pom
+Progress (1): 2.2 kB
+Progress (1): 5.6 kB
+Progress (1): 6.1 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.1/commons-collections-3.1.pom (6.1 kB at 184 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/velocity/velocity/1.7/velocity-1.7.pom
+Progress (1): 766 B
+Progress (1): 2.2 kB
+Progress (1): 4.2 kB
+Progress (1): 7.8 kB
+Progress (1): 10 kB 
+Progress (1): 11 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/velocity/velocity/1.7/velocity-1.7.pom (11 kB at 362 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.pom
+Progress (1): 795 B
+Progress (1): 2.4 kB
+Progress (1): 6.2 kB
+Progress (1): 10.0 kB
+Progress (1): 12 kB  
+Progress (1): 13 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.pom (13 kB at 391 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/9/commons-parent-9.pom
+Progress (1): 1.1 kB
+Progress (1): 2.7 kB
+Progress (1): 7.6 kB
+Progress (1): 10 kB 
+Progress (1): 13 kB
+Progress (1): 20 kB
+Progress (1): 22 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/9/commons-parent-9.pom (22 kB at 756 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.4/commons-lang-2.4.pom
+Progress (1): 790 B
+Progress (1): 2.2 kB
+Progress (1): 6.1 kB
+Progress (1): 10 kB 
+Progress (1): 13 kB
+Progress (1): 14 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.4/commons-lang-2.4.pom (14 kB at 499 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/velocity/velocity-tools/2.0/velocity-tools-2.0.pom
+Progress (1): 752 B
+Progress (1): 2.2 kB
+Progress (1): 4.7 kB
+Progress (1): 8.6 kB
+Progress (1): 11 kB 
+Progress (1): 16 kB
+Progress (1): 18 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/velocity/velocity-tools/2.0/velocity-tools-2.0.pom (18 kB at 492 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0.pom
+Progress (1): 357 B
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0.pom (357 B at 12 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.0.3/commons-logging-1.0.3.pom
+Progress (1): 866 B
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.0.3/commons-logging-1.0.3.pom (866 B at 21 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-digester/commons-digester/1.8/commons-digester-1.8.pom
+Progress (1): 1.1 kB
+Progress (1): 4.0 kB
+Progress (1): 6.4 kB
+Progress (1): 7.0 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/commons-digester/commons-digester/1.8/commons-digester-1.8.pom (7.0 kB at 200 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1/commons-logging-1.1.pom
+Progress (1): 1.4 kB
+Progress (1): 4.3 kB
+Progress (1): 6.2 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1/commons-logging-1.1.pom (6.2 kB at 140 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/log4j/log4j/1.2.12/log4j-1.2.12.pom
+Progress (1): 145 B
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/log4j/log4j/1.2.12/log4j-1.2.12.pom (145 B at 5.2 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/logkit/logkit/1.0.1/logkit-1.0.1.pom
+Progress (1): 147 B
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/logkit/logkit/1.0.1/logkit-1.0.1.pom (147 B at 4.1 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/avalon-framework/avalon-framework/4.1.3/avalon-framework-4.1.3.pom
+Progress (1): 167 B
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/avalon-framework/avalon-framework/4.1.3/avalon-framework-4.1.3.pom (167 B at 6.4 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-chain/commons-chain/1.1/commons-chain-1.1.pom
+Progress (1): 1.5 kB
+Progress (1): 3.6 kB
+Progress (1): 6.0 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/commons-chain/commons-chain/1.1/commons-chain-1.1.pom (6.0 kB at 188 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-digester/commons-digester/1.6/commons-digester-1.6.pom
+Progress (1): 974 B
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/commons-digester/commons-digester/1.6/commons-digester-1.6.pom (974 B at 24 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.6/commons-beanutils-1.6.pom
+Progress (1): 1.9 kB
+Progress (1): 2.3 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.6/commons-beanutils-1.6.pom (2.3 kB at 70 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.0/commons-logging-1.0.pom
+Progress (1): 163 B
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.0/commons-logging-1.0.pom (163 B at 4.3 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-collections/commons-collections/2.0/commons-collections-2.0.pom
+Progress (1): 171 B
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/commons-collections/commons-collections/2.0/commons-collections-2.0.pom (171 B at 5.2 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-collections/commons-collections/2.1/commons-collections-2.1.pom
+Progress (1): 2.7 kB
+Progress (1): 3.3 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/commons-collections/commons-collections/2.1/commons-collections-2.1.pom (3.3 kB at 104 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.pom
+Progress (1): 952 B
+Progress (1): 2.2 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.pom (2.2 kB at 62 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2/commons-collections-3.2.pom
+Progress (1): 1.5 kB
+Progress (1): 4.9 kB
+Progress (1): 8.8 kB
+Progress (1): 11 kB 
+Progress (1): 11 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2/commons-collections-3.2.pom (11 kB at 334 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/dom4j/dom4j/1.1/dom4j-1.1.pom
+Progress (1): 142 B
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/dom4j/dom4j/1.1/dom4j-1.1.pom (142 B at 4.9 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/oro/oro/2.0.8/oro-2.0.8.pom
+Progress (1): 140 B
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/oro/oro/2.0.8/oro-2.0.8.pom (140 B at 4.5 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/velocity/velocity/1.6.2/velocity-1.6.2.pom
+Progress (1): 768 B
+Progress (1): 2.2 kB
+Progress (1): 4.2 kB
+Progress (1): 7.9 kB
+Progress (1): 10 kB 
+Progress (1): 11 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/velocity/velocity/1.6.2/velocity-1.6.2.pom (11 kB at 332 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.6.0/plexus-archiver-4.6.0.pom
+Progress (1): 1.2 kB
+Progress (1): 4.1 kB
+Progress (1): 6.3 kB
+Progress (1): 6.5 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.6.0/plexus-archiver-4.6.0.pom (6.5 kB at 192 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.4.0/plexus-io-3.4.0.pom
+Progress (1): 1.2 kB
+Progress (1): 3.8 kB
+Progress (1): 6.0 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.4.0/plexus-io-3.4.0.pom (6.0 kB at 147 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.21/commons-compress-1.21.pom
+Progress (1): 753 B
+Progress (1): 1.9 kB
+Progress (1): 3.5 kB
+Progress (1): 6.8 kB
+Progress (1): 9.1 kB
+Progress (1): 11 kB 
+Progress (1): 14 kB
+Progress (1): 18 kB
+Progress (1): 20 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.21/commons-compress-1.21.pom (20 kB at 635 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/github/luben/zstd-jni/1.5.2-5/zstd-jni-1.5.2-5.pom
+Progress (1): 1.1 kB
+Progress (1): 1.9 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/com/github/luben/zstd-jni/1.5.2-5/zstd-jni-1.5.2-5.pom (1.9 kB at 60 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-dependency-analyzer/1.13.0/maven-dependency-analyzer-1.13.0.pom
+Progress (1): 801 B
+Progress (1): 2.3 kB
+Progress (1): 4.7 kB
+Progress (1): 5.5 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-dependency-analyzer/1.13.0/maven-dependency-analyzer-1.13.0.pom (5.5 kB at 191 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.2.5/maven-core-3.2.5.pom
+Progress (1): 821 B
+Progress (1): 2.4 kB
+Progress (1): 5.4 kB
+Progress (1): 8.1 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.2.5/maven-core-3.2.5.pom (8.1 kB at 310 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.2.5/maven-3.2.5.pom
+Progress (1): 764 B
+Progress (1): 1.9 kB
+Progress (1): 3.4 kB
+Progress (1): 5.3 kB
+Progress (1): 11 kB 
+Progress (1): 15 kB
+Progress (1): 18 kB
+Progress (1): 21 kB
+Progress (1): 22 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.2.5/maven-3.2.5.pom (22 kB at 605 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/25/maven-parent-25.pom
+Progress (1): 733 B
+Progress (1): 2.0 kB
+Progress (1): 6.1 kB
+Progress (1): 11 kB 
+Progress (1): 15 kB
+Progress (1): 19 kB
+Progress (1): 23 kB
+Progress (1): 24 kB
+Progress (1): 27 kB
+Progress (1): 30 kB
+Progress (1): 33 kB
+Progress (1): 37 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/25/maven-parent-25.pom (37 kB at 1.1 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/apache/15/apache-15.pom
+Progress (1): 754 B
+Progress (1): 2.1 kB
+Progress (1): 3.9 kB
+Progress (1): 7.9 kB
+Progress (1): 11 kB 
+Progress (1): 14 kB
+Progress (1): 15 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/apache/15/apache-15.pom (15 kB at 412 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.2.5/maven-model-3.2.5.pom
+Progress (1): 783 B
+Progress (1): 2.3 kB
+Progress (1): 4.2 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.2.5/maven-model-3.2.5.pom (4.2 kB at 125 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.2.5/maven-settings-3.2.5.pom
+Progress (1): 815 B
+Progress (1): 2.2 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.2.5/maven-settings-3.2.5.pom (2.2 kB at 78 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.2.5/maven-settings-builder-3.2.5.pom
+Progress (1): 813 B
+Progress (1): 2.6 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.2.5/maven-settings-builder-3.2.5.pom (2.6 kB at 96 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.21/plexus-interpolation-1.21.pom
+Progress (1): 1.3 kB
+Progress (1): 1.5 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.21/plexus-interpolation-1.21.pom (1.5 kB at 57 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.3.1/plexus-components-1.3.1.pom
+Progress (1): 1.3 kB
+Progress (1): 3.1 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.3.1/plexus-components-1.3.1.pom (3.1 kB at 113 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.2.5/maven-repository-metadata-3.2.5.pom
+Progress (1): 814 B
+Progress (1): 2.2 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.2.5/maven-repository-metadata-3.2.5.pom (2.2 kB at 72 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.2.5/maven-artifact-3.2.5.pom
+Progress (1): 834 B
+Progress (1): 2.3 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.2.5/maven-artifact-3.2.5.pom (2.3 kB at 60 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.2.5/maven-plugin-api-3.2.5.pom
+Progress (1): 804 B
+Progress (1): 2.5 kB
+Progress (1): 3.0 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.2.5/maven-plugin-api-3.2.5.pom (3.0 kB at 121 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.2.5/maven-model-builder-3.2.5.pom
+Progress (1): 835 B
+Progress (1): 2.7 kB
+Progress (1): 3.0 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.2.5/maven-model-builder-3.2.5.pom (3.0 kB at 103 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.2.5/maven-aether-provider-3.2.5.pom
+Progress (1): 803 B
+Progress (1): 3.0 kB
+Progress (1): 4.2 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.2.5/maven-aether-provider-3.2.5.pom (4.2 kB at 106 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/1.0.0.v20140518/aether-spi-1.0.0.v20140518.pom
+Progress (1): 929 B
+Progress (1): 2.1 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/1.0.0.v20140518/aether-spi-1.0.0.v20140518.pom (2.1 kB at 66 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl/1.0.0.v20140518/aether-impl-1.0.0.v20140518.pom
+Progress (1): 919 B
+Progress (1): 3.5 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl/1.0.0.v20140518/aether-impl-1.0.0.v20140518.pom (3.5 kB at 109 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-guice/3.2.3/sisu-guice-3.2.3.pom
+Progress (1): 1.3 kB
+Progress (1): 3.8 kB
+Progress (1): 6.0 kB
+Progress (1): 9.7 kB
+Progress (1): 11 kB 
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-guice/3.2.3/sisu-guice-3.2.3.pom (11 kB at 377 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-parent/3.2.3/guice-parent-3.2.3.pom
+Progress (1): 802 B
+Progress (1): 2.7 kB
+Progress (1): 5.2 kB
+Progress (1): 7.7 kB
+Progress (1): 10 kB 
+Progress (1): 13 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-parent/3.2.3/guice-parent-3.2.3.pom (13 kB at 518 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/38/forge-parent-38.pom
+Progress (1): 803 B
+Progress (1): 2.5 kB
+Progress (1): 5.0 kB
+Progress (1): 8.7 kB
+Progress (1): 12 kB 
+Progress (1): 16 kB
+Progress (1): 19 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/38/forge-parent-38.pom (19 kB at 646 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.pom
+Progress (1): 363 B
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.pom (363 B at 12 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/google/guava/guava/16.0.1/guava-16.0.1.pom
+Progress (1): 970 B
+Progress (1): 2.8 kB
+Progress (1): 5.3 kB
+Progress (1): 6.1 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/com/google/guava/guava/16.0.1/guava-16.0.1.pom (6.1 kB at 203 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/16.0.1/guava-parent-16.0.1.pom
+Progress (1): 1.0 kB
+Progress (1): 2.9 kB
+Progress (1): 6.3 kB
+Progress (1): 7.3 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/16.0.1/guava-parent-16.0.1.pom (7.3 kB at 237 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.2/plexus-classworlds-2.5.2.pom
+Progress (1): 881 B
+Progress (1): 2.9 kB
+Progress (1): 6.0 kB
+Progress (1): 7.3 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.2/plexus-classworlds-2.5.2.pom (7.3 kB at 261 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.3/asm-9.3.pom
+Progress (1): 1.2 kB
+Progress (1): 2.4 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.3/asm-9.3.pom (2.4 kB at 68 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/ow2/ow2/1.5/ow2-1.5.pom
+Progress (1): 711 B
+Progress (1): 2.1 kB
+Progress (1): 3.6 kB
+Progress (1): 6.1 kB
+Progress (1): 8.3 kB
+Progress (1): 11 kB 
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/ow2/ow2/1.5/ow2-1.5.pom (11 kB at 296 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.0/maven-core-3.0.pom
+Progress (1): 796 B
+Progress (1): 4.0 kB
+Progress (1): 6.6 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.0/maven-core-3.0.pom (6.6 kB at 184 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.0/maven-settings-3.0.pom
+Progress (1): 818 B
+Progress (1): 1.9 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.0/maven-settings-3.0.pom (1.9 kB at 61 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.0/maven-settings-builder-3.0.pom
+Progress (1): 801 B
+Progress (1): 2.2 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.0/maven-settings-builder-3.0.pom (2.2 kB at 79 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.14/plexus-interpolation-1.14.pom
+Progress (1): 910 B
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.14/plexus-interpolation-1.14.pom (910 B at 29 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.18/plexus-components-1.1.18.pom
+Progress (1): 1.4 kB
+Progress (1): 3.8 kB
+Progress (1): 5.4 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.18/plexus-components-1.1.18.pom (5.4 kB at 185 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.0/maven-repository-metadata-3.0.pom
+Progress (1): 801 B
+Progress (1): 1.9 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.0/maven-repository-metadata-3.0.pom (1.9 kB at 58 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.0/maven-model-builder-3.0.pom
+Progress (1): 843 B
+Progress (1): 2.2 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.0/maven-model-builder-3.0.pom (2.2 kB at 50 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.0/maven-aether-provider-3.0.pom
+Progress (1): 800 B
+Progress (1): 2.5 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.0/maven-aether-provider-3.0.pom (2.5 kB at 80 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-api/1.7/aether-api-1.7.pom
+Progress (1): 918 B
+Progress (1): 1.7 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-api/1.7/aether-api-1.7.pom (1.7 kB at 51 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-parent/1.7/aether-parent-1.7.pom
+Progress (1): 838 B
+Progress (1): 2.9 kB
+Progress (1): 5.2 kB
+Progress (1): 7.7 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-parent/1.7/aether-parent-1.7.pom (7.7 kB at 234 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-util/1.7/aether-util-1.7.pom
+Progress (1): 844 B
+Progress (1): 2.1 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-util/1.7/aether-util-1.7.pom (2.1 kB at 50 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-impl/1.7/aether-impl-1.7.pom
+Progress (1): 793 B
+Progress (1): 3.5 kB
+Progress (1): 3.7 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-impl/1.7/aether-impl-1.7.pom (3.7 kB at 106 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-spi/1.7/aether-spi-1.7.pom
+Progress (1): 911 B
+Progress (1): 1.7 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-spi/1.7/aether-spi-1.7.pom (1.7 kB at 58 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.2/commons-collections4-4.2.pom
+Progress (1): 777 B
+Progress (1): 2.2 kB
+Progress (1): 5.3 kB
+Progress (1): 9.2 kB
+Progress (1): 13 kB 
+Progress (1): 14 kB
+Progress (1): 17 kB
+Progress (1): 19 kB
+Progress (1): 22 kB
+Progress (1): 23 kB
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.2/commons-collections4-4.2.pom (23 kB at 857 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-impl/3.2.0/maven-reporting-impl-3.2.0.jar
+Progress (1): 7.7/20 kB
+Progress (1): 8.2/20 kB
+Progress (1): 20 kB    
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-impl/3.2.0/maven-reporting-impl-3.2.0.jar (20 kB at 697 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/3.1.1/maven-reporting-api-3.1.1.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.1.0/maven-core-3.1.0.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.1.0/maven-model-3.1.0.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.1.0/maven-settings-builder-3.1.0.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.1.0/maven-settings-3.1.0.jar
+Progress (1): 7.7/164 kB
+Progress (1): 16/164 kB 
+Progress (1): 25/164 kB
+Progress (1): 41/164 kB
+Progress (1): 57/164 kB
+Progress (1): 74/164 kB
+Progress (1): 90/164 kB
+Progress (1): 106/164 kB
+Progress (1): 123/164 kB
+Progress (1): 139/164 kB
+Progress (1): 156/164 kB
+Progress (1): 164 kB    
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.1.0/maven-model-3.1.0.jar (164 kB at 5.0 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.1.0/maven-repository-metadata-3.1.0.jar
+Progress (1): 0.9/11 kB
+Progress (1): 2.3/11 kB
+Progress (1): 3.6/11 kB
+Progress (1): 3.7/11 kB
+Progress (1): 5.1/11 kB
+Progress (1): 6.4/11 kB
+Progress (1): 7.8/11 kB
+Progress (1): 9.2/11 kB
+Progress (1): 11/11 kB 
+Progress (1): 11 kB   
+Progress (2): 11 kB | 7.7/30 kB
+Progress (2): 11 kB | 16/30 kB 
+Progress (2): 11 kB | 25/30 kB
+Progress (2): 11 kB | 30 kB   
+                           
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/3.1.1/maven-reporting-api-3.1.1.jar (11 kB at 173 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.1.0/maven-model-builder-3.1.0.jar
+Progress (2): 30 kB | 0.9/41 kB
+Progress (2): 30 kB | 2.3/41 kB
+Progress (2): 30 kB | 3.7/41 kB
+Progress (2): 30 kB | 5.0/41 kB
+Progress (2): 30 kB | 6.4/41 kB
+Progress (2): 30 kB | 7.8/41 kB
+Progress (2): 30 kB | 9.1/41 kB
+Progress (2): 30 kB | 11/41 kB 
+Progress (2): 30 kB | 12/41 kB
+Progress (2): 30 kB | 13/41 kB
+Progress (2): 30 kB | 15/41 kB
+Progress (2): 30 kB | 16/41 kB
+Progress (2): 30 kB | 17/41 kB
+Progress (2): 30 kB | 19/41 kB
+Progress (2): 30 kB | 20/41 kB
+Progress (2): 30 kB | 20/41 kB
+Progress (2): 30 kB | 21/41 kB
+Progress (2): 30 kB | 23/41 kB
+Progress (2): 30 kB | 24/41 kB
+Progress (2): 30 kB | 26/41 kB
+Progress (2): 30 kB | 27/41 kB
+Progress (2): 30 kB | 28/41 kB
+Progress (2): 30 kB | 30/41 kB
+Progress (2): 30 kB | 31/41 kB
+Progress (2): 30 kB | 32/41 kB
+Progress (2): 30 kB | 34/41 kB
+Progress (2): 30 kB | 35/41 kB
+Progress (2): 30 kB | 37/41 kB
+Progress (2): 30 kB | 38/41 kB
+Progress (2): 30 kB | 39/41 kB
+Progress (2): 30 kB | 41/41 kB
+Progress (2): 30 kB | 41 kB   
+                           
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.1.0/maven-repository-metadata-3.1.0.jar (30 kB at 478 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.1.0/maven-aether-provider-3.1.0.jar
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.1.0/maven-settings-builder-3.1.0.jar (41 kB at 647 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/0.9.0.M2/aether-spi-0.9.0.M2.jar
+Progress (1): 0.9/47 kB
+Progress (1): 2.3/47 kB
+Progress (1): 3.7/47 kB
+Progress (1): 5.0/47 kB
+Progress (1): 6.4/47 kB
+Progress (1): 7.8/47 kB
+Progress (1): 9.1/47 kB
+Progress (1): 11/47 kB 
+Progress (1): 12/47 kB
+Progress (1): 13/47 kB
+Progress (1): 15/47 kB
+Progress (1): 16/47 kB
+Progress (1): 17/47 kB
+Progress (1): 19/47 kB
+Progress (1): 20/47 kB
+Progress (1): 21/47 kB
+Progress (1): 23/47 kB
+Progress (1): 24/47 kB
+Progress (1): 25/47 kB
+Progress (1): 26/47 kB
+Progress (1): 27/47 kB
+Progress (1): 29/47 kB
+Progress (1): 30/47 kB
+Progress (1): 31/47 kB
+Progress (1): 33/47 kB
+Progress (1): 34/47 kB
+Progress (1): 36/47 kB
+Progress (1): 37/47 kB
+Progress (1): 38/47 kB
+Progress (1): 40/47 kB
+Progress (1): 41/47 kB
+Progress (1): 42/47 kB
+Progress (1): 44/47 kB
+Progress (1): 45/47 kB
+Progress (1): 46/47 kB
+Progress (1): 47 kB   
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.1.0/maven-settings-3.1.0.jar (47 kB at 687 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl/0.9.0.M2/aether-impl-0.9.0.M2.jar
+Progress (1): 0.9/563 kB
+Progress (1): 2.3/563 kB
+Progress (1): 3.6/563 kB
+Progress (1): 3.7/563 kB
+Progress (1): 5.1/563 kB
+Progress (1): 6.4/563 kB
+Progress (1): 7.8/563 kB
+Progress (1): 9.2/563 kB
+Progress (1): 11/563 kB 
+Progress (1): 12/563 kB
+Progress (1): 13/563 kB
+Progress (1): 15/563 kB
+Progress (1): 16/563 kB
+Progress (1): 17/563 kB
+Progress (1): 19/563 kB
+Progress (1): 20/563 kB
+Progress (1): 21/563 kB
+Progress (1): 23/563 kB
+Progress (1): 24/563 kB
+Progress (1): 26/563 kB
+Progress (1): 27/563 kB
+Progress (1): 28/563 kB
+Progress (1): 30/563 kB
+Progress (1): 31/563 kB
+Progress (1): 32/563 kB
+Progress (1): 34/563 kB
+Progress (1): 35/563 kB
+Progress (1): 37/563 kB
+Progress (1): 38/563 kB
+Progress (1): 39/563 kB
+Progress (1): 41/563 kB
+Progress (1): 42/563 kB
+Progress (1): 43/563 kB
+Progress (1): 45/563 kB
+Progress (1): 46/563 kB
+Progress (1): 48/563 kB
+Progress (1): 49/563 kB
+Progress (1): 50/563 kB
+Progress (1): 52/563 kB
+Progress (1): 53/563 kB
+Progress (1): 54/563 kB
+Progress (1): 59/563 kB
+Progress (1): 63/563 kB
+Progress (1): 67/563 kB
+Progress (1): 71/563 kB
+Progress (1): 75/563 kB
+Progress (1): 80/563 kB
+Progress (1): 84/563 kB
+Progress (1): 88/563 kB
+Progress (1): 92/563 kB
+Progress (1): 97/563 kB
+Progress (1): 101/563 kB
+Progress (1): 105/563 kB
+Progress (1): 109/563 kB
+Progress (1): 114/563 kB
+Progress (1): 118/563 kB
+Progress (1): 122/563 kB
+Progress (1): 126/563 kB
+Progress (1): 130/563 kB
+Progress (1): 135/563 kB
+Progress (1): 135/563 kB
+Progress (1): 139/563 kB
+Progress (1): 143/563 kB
+Progress (1): 147/563 kB
+Progress (1): 152/563 kB
+Progress (1): 156/563 kB
+Progress (1): 160/563 kB
+Progress (1): 164/563 kB
+Progress (1): 169/563 kB
+Progress (1): 173/563 kB
+Progress (1): 177/563 kB
+Progress (1): 181/563 kB
+Progress (1): 186/563 kB
+Progress (1): 190/563 kB
+Progress (1): 194/563 kB
+Progress (1): 198/563 kB
+Progress (1): 202/563 kB
+Progress (1): 207/563 kB
+Progress (1): 211/563 kB
+Progress (1): 215/563 kB
+Progress (1): 219/563 kB
+Progress (1): 236/563 kB
+Progress (1): 252/563 kB
+Progress (1): 266/563 kB
+Progress (1): 282/563 kB
+Progress (1): 299/563 kB
+Progress (1): 315/563 kB
+Progress (1): 329/563 kB
+Progress (1): 345/563 kB
+Progress (1): 362/563 kB
+Progress (2): 362/563 kB | 7.7/159 kB
+Progress (2): 362/563 kB | 16/159 kB 
+Progress (2): 362/563 kB | 20/159 kB
+Progress (2): 362/563 kB | 36/159 kB
+Progress (2): 362/563 kB | 53/159 kB
+Progress (2): 362/563 kB | 69/159 kB
+Progress (2): 362/563 kB | 86/159 kB
+Progress (2): 362/563 kB | 102/159 kB
+Progress (2): 362/563 kB | 118/159 kB
+Progress (2): 362/563 kB | 135/159 kB
+Progress (2): 362/563 kB | 151/159 kB
+Progress (2): 362/563 kB | 159 kB    
+Progress (2): 378/563 kB | 159 kB
+Progress (2): 394/563 kB | 159 kB
+Progress (2): 411/563 kB | 159 kB
+Progress (2): 427/563 kB | 159 kB
+Progress (2): 443/563 kB | 159 kB
+Progress (2): 460/563 kB | 159 kB
+Progress (2): 476/563 kB | 159 kB
+Progress (2): 493/563 kB | 159 kB
+Progress (2): 509/563 kB | 159 kB
+Progress (2): 525/563 kB | 159 kB
+                                 
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.1.0/maven-model-builder-3.1.0.jar (159 kB at 1.8 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/0.9.0.M2/aether-api-0.9.0.M2.jar
+Progress (1): 542/563 kB
+Progress (1): 558/563 kB
+Progress (1): 563 kB    
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.1.0/maven-core-3.1.0.jar (563 kB at 6.0 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.plexus/0.3.0.M1/org.eclipse.sisu.plexus-0.3.0.M1.jar
+Progress (1): 0.9/145 kB
+Progress (1): 2.3/145 kB
+Progress (1): 3.6/145 kB
+Progress (1): 5.0/145 kB
+Progress (1): 6.4/145 kB
+Progress (1): 11/145 kB 
+Progress (1): 15/145 kB
+Progress (1): 19/145 kB
+Progress (1): 20/145 kB
+Progress (1): 24/145 kB
+Progress (1): 29/145 kB
+Progress (1): 33/145 kB
+Progress (1): 37/145 kB
+Progress (1): 41/145 kB
+Progress (1): 45/145 kB
+Progress (1): 50/145 kB
+Progress (1): 54/145 kB
+Progress (1): 58/145 kB
+Progress (1): 62/145 kB
+Progress (2): 62/145 kB | 0.9/60 kB
+Progress (2): 62/145 kB | 2.3/60 kB
+Progress (2): 62/145 kB | 3.6/60 kB
+Progress (2): 62/145 kB | 5.0/60 kB
+Progress (2): 62/145 kB | 6.4/60 kB
+Progress (2): 62/145 kB | 7.7/60 kB
+Progress (2): 62/145 kB | 9.1/60 kB
+Progress (2): 62/145 kB | 10/60 kB 
+Progress (2): 62/145 kB | 12/60 kB
+Progress (2): 62/145 kB | 16/60 kB
+Progress (2): 62/145 kB | 20/60 kB
+Progress (2): 62/145 kB | 25/60 kB
+Progress (2): 62/145 kB | 25/60 kB
+Progress (2): 62/145 kB | 29/60 kB
+Progress (2): 62/145 kB | 33/60 kB
+Progress (2): 62/145 kB | 37/60 kB
+Progress (2): 62/145 kB | 41/60 kB
+Progress (2): 62/145 kB | 46/60 kB
+Progress (2): 62/145 kB | 50/60 kB
+Progress (2): 62/145 kB | 54/60 kB
+Progress (3): 62/145 kB | 54/60 kB | 0.9/18 kB
+Progress (3): 62/145 kB | 58/60 kB | 0.9/18 kB
+Progress (3): 62/145 kB | 58/60 kB | 2.3/18 kB
+Progress (3): 62/145 kB | 60 kB | 2.3/18 kB   
+Progress (3): 62/145 kB | 60 kB | 3.6/18 kB
+Progress (3): 62/145 kB | 60 kB | 3.7/18 kB
+Progress (3): 62/145 kB | 60 kB | 5.1/18 kB
+Progress (3): 62/145 kB | 60 kB | 6.5/18 kB
+Progress (3): 62/145 kB | 60 kB | 7.8/18 kB
+Progress (3): 62/145 kB | 60 kB | 9.2/18 kB
+Progress (3): 62/145 kB | 60 kB | 11/18 kB 
+Progress (3): 62/145 kB | 60 kB | 12/18 kB
+Progress (3): 62/145 kB | 60 kB | 13/18 kB
+Progress (3): 62/145 kB | 60 kB | 15/18 kB
+Progress (3): 62/145 kB | 60 kB | 16/18 kB
+Progress (3): 62/145 kB | 60 kB | 17/18 kB
+Progress (3): 62/145 kB | 60 kB | 18 kB   
+Progress (3): 67/145 kB | 60 kB | 18 kB
+Progress (3): 71/145 kB | 60 kB | 18 kB
+Progress (3): 75/145 kB | 60 kB | 18 kB
+Progress (3): 79/145 kB | 60 kB | 18 kB
+Progress (3): 84/145 kB | 60 kB | 18 kB
+Progress (3): 88/145 kB | 60 kB | 18 kB
+Progress (3): 92/145 kB | 60 kB | 18 kB
+Progress (3): 96/145 kB | 60 kB | 18 kB
+Progress (3): 100/145 kB | 60 kB | 18 kB
+                                        
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.1.0/maven-aether-provider-3.1.0.jar (60 kB at 600 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0.jar
+Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/0.9.0.M2/aether-spi-0.9.0.M2.jar (18 kB at 177 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar
+Progress (1): 105/145 kB
+Progress (1): 109/145 kB
+Progress (1): 113/145 kB
+Progress (1): 117/145 kB
+Progress (1): 122/145 kB
+Progress (1): 126/145 kB
+Progress (1): 130/145 kB
+Progress (1): 134/145 kB
+Progress (1): 138/145 kB
+Progress (1): 143/145 kB
+Progress (1): 145 kB    
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl/0.9.0.M2/aether-impl-0.9.0.M2.jar (145 kB at 1.4 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.3.0.M1/org.eclipse.sisu.inject-0.3.0.M1.jar
+Progress (1): 7.7/134 kB
+Progress (1): 16/134 kB 
+Progress (1): 25/134 kB
+Progress (1): 41/134 kB
+Progress (1): 57/134 kB
+Progress (1): 74/134 kB
+Progress (1): 90/134 kB
+Progress (1): 106/134 kB
+Progress (1): 123/134 kB
+Progress (1): 134 kB    
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/0.9.0.M2/aether-api-0.9.0.M2.jar (134 kB at 1.1 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.16/plexus-interpolation-1.16.jar
+Progress (1): 7.7/201 kB
+Progress (1): 8.2/201 kB
+Progress (1): 25/201 kB 
+Progress (1): 41/201 kB
+Progress (1): 57/201 kB
+Progress (1): 74/201 kB
+Progress (1): 90/201 kB
+Progress (1): 106/201 kB
+Progress (1): 123/201 kB
+Progress (1): 139/201 kB
+Progress (1): 156/201 kB
+Progress (1): 172/201 kB
+Progress (1): 188/201 kB
+Progress (1): 201 kB    
+Progress (2): 201 kB | 3.7/5.8 kB
+Progress (2): 201 kB | 5.8 kB    
+                             
+Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.plexus/0.3.0.M1/org.eclipse.sisu.plexus-0.3.0.M1.jar (201 kB at 1.6 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.4.2/plexus-classworlds-2.4.2.jar
+Downloaded from central: https://repo.maven.apache.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar (5.8 kB at 45 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.jar
+Progress (1): 0.9/45 kB
+Progress (1): 2.3/45 kB
+Progress (1): 3.7/45 kB
+Progress (1): 5.0/45 kB
+Progress (1): 6.4/45 kB
+Progress (1): 7.8/45 kB
+Progress (1): 9.1/45 kB
+Progress (1): 11/45 kB 
+Progress (1): 12/45 kB
+Progress (1): 13/45 kB
+Progress (1): 15/45 kB
+Progress (1): 16/45 kB
+Progress (1): 17/45 kB
+Progress (1): 19/45 kB
+Progress (1): 20/45 kB
+Progress (1): 20/45 kB
+Progress (1): 24/45 kB
+Progress (1): 29/45 kB
+Progress (1): 33/45 kB
+Progress (1): 37/45 kB
+Progress (1): 41/45 kB
+Progress (1): 45 kB   
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0.jar (45 kB at 333 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.jar
+Progress (1): 3.7/340 kB
+Progress (1): 8.0/340 kB
+Progress (1): 12/340 kB 
+Progress (1): 16/340 kB
+Progress (1): 21/340 kB
+Progress (1): 25/340 kB
+Progress (1): 41/340 kB
+Progress (1): 58/340 kB
+Progress (1): 74/340 kB
+Progress (1): 90/340 kB
+Progress (1): 107/340 kB
+Progress (1): 118/340 kB
+Progress (1): 135/340 kB
+Progress (1): 151/340 kB
+Progress (1): 168/340 kB
+Progress (1): 184/340 kB
+Progress (1): 200/340 kB
+Progress (1): 217/340 kB
+Progress (1): 233/340 kB
+Progress (1): 250/340 kB
+Progress (2): 250/340 kB | 7.7/61 kB
+Progress (2): 250/340 kB | 16/61 kB 
+Progress (2): 250/340 kB | 20/61 kB
+Progress (2): 250/340 kB | 36/61 kB
+Progress (2): 250/340 kB | 53/61 kB
+Progress (2): 250/340 kB | 61 kB   
+Progress (2): 266/340 kB | 61 kB
+Progress (2): 282/340 kB | 61 kB
+Progress (2): 299/340 kB | 61 kB
+Progress (2): 315/340 kB | 61 kB
+Progress (2): 331/340 kB | 61 kB
+Progress (2): 340 kB | 61 kB    
+                            
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.16/plexus-interpolation-1.16.jar (61 kB at 414 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.1.0/maven-artifact-3.1.0.jar
+Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.3.0.M1/org.eclipse.sisu.inject-0.3.0.M1.jar (340 kB at 2.3 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.1.0/maven-plugin-api-3.1.0.jar
+Progress (1): 3.7/47 kB
+Progress (1): 8.0/47 kB
+Progress (1): 12/47 kB 
+Progress (1): 16/47 kB
+Progress (1): 21/47 kB
+Progress (1): 25/47 kB
+Progress (1): 29/47 kB
+Progress (1): 33/47 kB
+Progress (1): 38/47 kB
+Progress (1): 42/47 kB
+Progress (1): 46/47 kB
+Progress (1): 47 kB   
+Progress (2): 47 kB | 7.7/29 kB
+Progress (2): 47 kB | 16/29 kB 
+Progress (2): 47 kB | 25/29 kB
+Progress (2): 47 kB | 29 kB   
+                           
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.4.2/plexus-classworlds-2.4.2.jar (47 kB at 294 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.11.1/doxia-sink-api-1.11.1.jar
+Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.jar (29 kB at 177 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-logging-api/1.11.1/doxia-logging-api-1.11.1.jar
+Progress (1): 3.7/13 kB
+Progress (1): 8.0/13 kB
+Progress (1): 12/13 kB 
+Progress (1): 13 kB   
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.jar (13 kB at 79 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-decoration-model/1.11.1/doxia-decoration-model-1.11.1.jar
+Progress (1): 7.7/52 kB
+Progress (1): 16/52 kB 
+Progress (1): 25/52 kB
+Progress (1): 41/52 kB
+Progress (1): 52 kB   
+Progress (2): 52 kB | 7.7/50 kB
+Progress (2): 52 kB | 16/50 kB 
+                              
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.1.0/maven-artifact-3.1.0.jar (52 kB at 291 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-core/1.11.1/doxia-core-1.11.1.jar
+Progress (1): 32/50 kB
+Progress (1): 49/50 kB
+Progress (1): 50 kB   
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.1.0/maven-plugin-api-3.1.0.jar (50 kB at 274 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/2.1.0/plexus-container-default-2.1.0.jar
+Progress (1): 3.8/12 kB
+Progress (1): 8.0/12 kB
+Progress (1): 12 kB    
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-logging-api/1.11.1/doxia-logging-api-1.11.1.jar (12 kB at 62 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/xbean/xbean-reflect/3.7/xbean-reflect-3.7.jar
+Progress (1): 7.7/12 kB
+Progress (1): 12 kB    
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.11.1/doxia-sink-api-1.11.1.jar (12 kB at 59 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/google/collections/google-collections/1.0/google-collections-1.0.jar
+Progress (1): 3.8/60 kB
+Progress (1): 8.0/60 kB
+Progress (1): 12/60 kB 
+Progress (1): 16/60 kB
+Progress (1): 21/60 kB
+Progress (1): 25/60 kB
+Progress (1): 29/60 kB
+Progress (1): 33/60 kB
+Progress (1): 37/60 kB
+Progress (1): 41/60 kB
+Progress (1): 46/60 kB
+Progress (1): 50/60 kB
+Progress (1): 54/60 kB
+Progress (1): 58/60 kB
+Progress (1): 60 kB   
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-decoration-model/1.11.1/doxia-decoration-model-1.11.1.jar (60 kB at 293 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar
+Progress (1): 8.2/230 kB
+Progress (1): 25/230 kB 
+Progress (1): 41/230 kB
+Progress (1): 57/230 kB
+Progress (1): 74/230 kB
+Progress (2): 74/230 kB | 3.7/218 kB
+Progress (2): 74/230 kB | 20/218 kB 
+Progress (2): 74/230 kB | 36/218 kB
+Progress (2): 90/230 kB | 36/218 kB
+Progress (2): 106/230 kB | 36/218 kB
+Progress (2): 123/230 kB | 36/218 kB
+Progress (2): 123/230 kB | 53/218 kB
+Progress (2): 123/230 kB | 69/218 kB
+Progress (2): 123/230 kB | 86/218 kB
+Progress (2): 123/230 kB | 102/218 kB
+Progress (2): 123/230 kB | 118/218 kB
+Progress (2): 131/230 kB | 118/218 kB
+Progress (2): 147/230 kB | 118/218 kB
+Progress (2): 164/230 kB | 118/218 kB
+Progress (2): 180/230 kB | 118/218 kB
+Progress (2): 184/230 kB | 118/218 kB
+Progress (2): 184/230 kB | 135/218 kB
+Progress (2): 184/230 kB | 151/218 kB
+Progress (2): 184/230 kB | 168/218 kB
+Progress (2): 201/230 kB | 168/218 kB
+Progress (2): 217/230 kB | 168/218 kB
+Progress (2): 229/230 kB | 168/218 kB
+Progress (2): 230 kB | 168/218 kB    
+Progress (2): 230 kB | 184/218 kB
+Progress (2): 230 kB | 200/218 kB
+Progress (2): 230 kB | 217/218 kB
+Progress (2): 230 kB | 218 kB    
+Progress (3): 230 kB | 218 kB | 3.8/148 kB
+Progress (3): 230 kB | 218 kB | 8.0/148 kB
+Progress (3): 230 kB | 218 kB | 12/148 kB 
+Progress (3): 230 kB | 218 kB | 16/148 kB
+Progress (3): 230 kB | 218 kB | 21/148 kB
+Progress (3): 230 kB | 218 kB | 25/148 kB
+Progress (3): 230 kB | 218 kB | 29/148 kB
+Progress (3): 230 kB | 218 kB | 33/148 kB
+Progress (3): 230 kB | 218 kB | 37/148 kB
+Progress (3): 230 kB | 218 kB | 41/148 kB
+Progress (3): 230 kB | 218 kB | 58/148 kB
+Progress (3): 230 kB | 218 kB | 74/148 kB
+Progress (3): 230 kB | 218 kB | 91/148 kB
+Progress (3): 230 kB | 218 kB | 107/148 kB
+                                          
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/2.1.0/plexus-container-default-2.1.0.jar (230 kB at 1.0 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.3/commons-text-1.3.jar
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-core/1.11.1/doxia-core-1.11.1.jar (218 kB at 982 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar
+Progress (1): 123/148 kB
+Progress (1): 140/148 kB
+Progress (1): 148 kB    
+Progress (2): 148 kB | 7.7/640 kB
+Progress (2): 148 kB | 16/640 kB 
+Progress (2): 148 kB | 20/640 kB
+Progress (2): 148 kB | 37/640 kB
+Progress (2): 148 kB | 53/640 kB
+Progress (2): 148 kB | 69/640 kB
+Progress (2): 148 kB | 86/640 kB
+Progress (2): 148 kB | 102/640 kB
+Progress (2): 148 kB | 118/640 kB
+                                 
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/xbean/xbean-reflect/3.7/xbean-reflect-3.7.jar (148 kB at 650 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11.jar
+Progress (1): 135/640 kB
+Progress (1): 151/640 kB
+Progress (1): 168/640 kB
+Progress (1): 184/640 kB
+Progress (1): 200/640 kB
+Progress (1): 217/640 kB
+Progress (1): 233/640 kB
+Progress (1): 250/640 kB
+Progress (1): 266/640 kB
+Progress (1): 282/640 kB
+Progress (1): 299/640 kB
+Progress (1): 315/640 kB
+Progress (1): 331/640 kB
+Progress (1): 348/640 kB
+Progress (1): 359/640 kB
+Progress (1): 376/640 kB
+Progress (1): 392/640 kB
+Progress (1): 408/640 kB
+Progress (1): 425/640 kB
+Progress (1): 441/640 kB
+Progress (1): 457/640 kB
+Progress (1): 474/640 kB
+Progress (1): 490/640 kB
+Progress (1): 507/640 kB
+Progress (1): 523/640 kB
+Progress (1): 539/640 kB
+Progress (1): 556/640 kB
+Progress (1): 572/640 kB
+Progress (1): 589/640 kB
+Progress (1): 605/640 kB
+Progress (1): 621/640 kB
+Progress (1): 638/640 kB
+Progress (1): 640 kB    
+Progress (2): 640 kB | 3.8/502 kB
+Progress (2): 640 kB | 8.0/502 kB
+Progress (2): 640 kB | 12/502 kB 
+Progress (2): 640 kB | 16/502 kB
+Progress (2): 640 kB | 20/502 kB
+Progress (2): 640 kB | 24/502 kB
+Progress (2): 640 kB | 29/502 kB
+Progress (2): 640 kB | 33/502 kB
+Progress (2): 640 kB | 37/502 kB
+Progress (2): 640 kB | 41/502 kB
+Progress (2): 640 kB | 45/502 kB
+Progress (2): 640 kB | 50/502 kB
+Progress (2): 640 kB | 54/502 kB
+Progress (2): 640 kB | 58/502 kB
+Progress (2): 640 kB | 62/502 kB
+Progress (2): 640 kB | 79/502 kB
+                                
+Downloaded from central: https://repo.maven.apache.org/maven2/com/google/collections/google-collections/1.0/google-collections-1.0.jar (640 kB at 2.7 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar
+Progress (1): 95/502 kB
+Progress (1): 112/502 kB
+Progress (1): 128/502 kB
+Progress (1): 144/502 kB
+Progress (1): 151/502 kB
+Progress (1): 168/502 kB
+Progress (1): 184/502 kB
+Progress (1): 200/502 kB
+Progress (1): 217/502 kB
+Progress (1): 233/502 kB
+Progress (1): 249/502 kB
+Progress (1): 266/502 kB
+Progress (1): 282/502 kB
+Progress (1): 299/502 kB
+Progress (1): 315/502 kB
+Progress (1): 331/502 kB
+Progress (1): 348/502 kB
+Progress (1): 364/502 kB
+Progress (1): 381/502 kB
+Progress (2): 381/502 kB | 7.7/183 kB
+Progress (2): 381/502 kB | 16/183 kB 
+Progress (2): 381/502 kB | 25/183 kB
+Progress (2): 381/502 kB | 41/183 kB
+Progress (2): 381/502 kB | 57/183 kB
+Progress (2): 381/502 kB | 74/183 kB
+Progress (2): 381/502 kB | 90/183 kB
+Progress (2): 381/502 kB | 106/183 kB
+Progress (2): 381/502 kB | 123/183 kB
+Progress (2): 381/502 kB | 139/183 kB
+Progress (2): 381/502 kB | 156/183 kB
+Progress (2): 381/502 kB | 172/183 kB
+Progress (2): 381/502 kB | 183 kB    
+Progress (2): 397/502 kB | 183 kB
+Progress (2): 413/502 kB | 183 kB
+Progress (2): 430/502 kB | 183 kB
+Progress (2): 446/502 kB | 183 kB
+Progress (2): 462/502 kB | 183 kB
+Progress (2): 479/502 kB | 183 kB
+Progress (2): 495/502 kB | 183 kB
+Progress (2): 502 kB | 183 kB    
+                             
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.3/commons-text-1.3.jar (183 kB at 726 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-integration-tools/1.11.1/doxia-integration-tools-1.11.1.jar
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar (502 kB at 2.0 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-site-renderer/1.11.1/doxia-site-renderer-1.11.1.jar
+Progress (1): 7.7/780 kB
+Progress (1): 16/780 kB 
+Progress (1): 20/780 kB
+Progress (1): 37/780 kB
+Progress (1): 53/780 kB
+Progress (1): 69/780 kB
+Progress (1): 86/780 kB
+Progress (1): 102/780 kB
+Progress (1): 118/780 kB
+Progress (1): 135/780 kB
+Progress (1): 151/780 kB
+Progress (1): 168/780 kB
+Progress (1): 184/780 kB
+Progress (1): 200/780 kB
+Progress (1): 217/780 kB
+Progress (1): 233/780 kB
+Progress (1): 250/780 kB
+Progress (1): 266/780 kB
+Progress (1): 282/780 kB
+Progress (1): 299/780 kB
+Progress (1): 315/780 kB
+Progress (1): 331/780 kB
+Progress (1): 348/780 kB
+Progress (1): 348/780 kB
+Progress (1): 364/780 kB
+Progress (1): 381/780 kB
+Progress (1): 397/780 kB
+Progress (1): 413/780 kB
+Progress (1): 430/780 kB
+Progress (1): 446/780 kB
+Progress (1): 463/780 kB
+Progress (1): 479/780 kB
+Progress (1): 495/780 kB
+Progress (1): 512/780 kB
+Progress (1): 528/780 kB
+Progress (1): 544/780 kB
+Progress (1): 561/780 kB
+Progress (1): 577/780 kB
+Progress (1): 594/780 kB
+Progress (1): 610/780 kB
+Progress (1): 626/780 kB
+Progress (1): 643/780 kB
+Progress (1): 659/780 kB
+Progress (2): 659/780 kB | 7.7/335 kB
+Progress (2): 676/780 kB | 7.7/335 kB
+Progress (2): 676/780 kB | 16/335 kB 
+Progress (2): 676/780 kB | 20/335 kB
+Progress (2): 692/780 kB | 20/335 kB
+Progress (2): 708/780 kB | 20/335 kB
+Progress (2): 708/780 kB | 36/335 kB
+Progress (2): 708/780 kB | 53/335 kB
+Progress (2): 708/780 kB | 69/335 kB
+Progress (2): 708/780 kB | 86/335 kB
+Progress (2): 725/780 kB | 86/335 kB
+Progress (2): 741/780 kB | 86/335 kB
+Progress (2): 757/780 kB | 86/335 kB
+Progress (3): 757/780 kB | 86/335 kB | 7.7/328 kB
+Progress (3): 757/780 kB | 102/335 kB | 7.7/328 kB
+Progress (3): 757/780 kB | 102/335 kB | 16/328 kB 
+Progress (3): 757/780 kB | 118/335 kB | 16/328 kB
+Progress (3): 757/780 kB | 118/335 kB | 25/328 kB
+Progress (3): 757/780 kB | 135/335 kB | 25/328 kB
+Progress (3): 757/780 kB | 135/335 kB | 41/328 kB
+Progress (3): 757/780 kB | 135/335 kB | 57/328 kB
+Progress (3): 757/780 kB | 135/335 kB | 74/328 kB
+Progress (3): 757/780 kB | 135/335 kB | 90/328 kB
+Progress (3): 757/780 kB | 135/335 kB | 106/328 kB
+Progress (3): 757/780 kB | 135/335 kB | 123/328 kB
+Progress (3): 757/780 kB | 135/335 kB | 139/328 kB
+Progress (3): 757/780 kB | 151/335 kB | 139/328 kB
+Progress (3): 757/780 kB | 168/335 kB | 139/328 kB
+Progress (3): 757/780 kB | 184/335 kB | 139/328 kB
+Progress (3): 757/780 kB | 200/335 kB | 139/328 kB
+Progress (3): 757/780 kB | 200/335 kB | 156/328 kB
+Progress (3): 757/780 kB | 200/335 kB | 172/328 kB
+Progress (3): 757/780 kB | 200/335 kB | 188/328 kB
+Progress (3): 757/780 kB | 200/335 kB | 205/328 kB
+Progress (3): 757/780 kB | 200/335 kB | 221/328 kB
+Progress (3): 757/780 kB | 200/335 kB | 238/328 kB
+Progress (3): 757/780 kB | 200/335 kB | 254/328 kB
+Progress (3): 757/780 kB | 217/335 kB | 254/328 kB
+Progress (3): 757/780 kB | 233/335 kB | 254/328 kB
+Progress (3): 757/780 kB | 249/335 kB | 254/328 kB
+Progress (3): 757/780 kB | 249/335 kB | 270/328 kB
+Progress (3): 757/780 kB | 249/335 kB | 287/328 kB
+Progress (3): 757/780 kB | 249/335 kB | 303/328 kB
+Progress (3): 757/780 kB | 249/335 kB | 319/328 kB
+Progress (3): 757/780 kB | 249/335 kB | 328 kB    
+Progress (3): 774/780 kB | 249/335 kB | 328 kB
+Progress (3): 780 kB | 249/335 kB | 328 kB    
+Progress (3): 780 kB | 266/335 kB | 328 kB
+Progress (3): 780 kB | 282/335 kB | 328 kB
+Progress (3): 780 kB | 286/335 kB | 328 kB
+Progress (3): 780 kB | 302/335 kB | 328 kB
+Progress (3): 780 kB | 319/335 kB | 328 kB
+Progress (3): 780 kB | 335 kB | 328 kB    
+                                      
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar (328 kB at 1.2 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-skin-model/1.11.1/doxia-skin-model-1.11.1.jar
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar (780 kB at 2.8 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-xhtml/1.11.1/doxia-module-xhtml-1.11.1.jar
+Downloaded from central: https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11.jar (335 kB at 1.2 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-xhtml5/1.11.1/doxia-module-xhtml5-1.11.1.jar
+Progress (1): 7.7/65 kB
+Progress (1): 16/65 kB 
+Progress (1): 25/65 kB
+Progress (1): 41/65 kB
+Progress (1): 57/65 kB
+Progress (1): 65 kB   
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-site-renderer/1.11.1/doxia-site-renderer-1.11.1.jar (65 kB at 227 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-velocity/1.2/plexus-velocity-1.2.jar
+Progress (1): 7.7/47 kB
+Progress (1): 16/47 kB 
+Progress (1): 20/47 kB
+Progress (1): 36/47 kB
+Progress (1): 47 kB   
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-integration-tools/1.11.1/doxia-integration-tools-1.11.1.jar (47 kB at 152 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/velocity/velocity/1.7/velocity-1.7.jar
+Progress (1): 3.7/17 kB
+Progress (1): 17 kB    
+Progress (2): 17 kB | 7.7/16 kB
+Progress (2): 17 kB | 16/16 kB 
+Progress (2): 17 kB | 16 kB   
+                           
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-xhtml/1.11.1/doxia-module-xhtml-1.11.1.jar (17 kB at 56 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.4/commons-lang-2.4.jar
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-skin-model/1.11.1/doxia-skin-model-1.11.1.jar (16 kB at 52 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/velocity/velocity-tools/2.0/velocity-tools-2.0.jar
+Progress (1): 7.7/18 kB
+Progress (1): 11/18 kB 
+Progress (1): 18 kB   
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-xhtml5/1.11.1/doxia-module-xhtml5-1.11.1.jar (18 kB at 57 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0.jar
+Progress (1): 3.7/8.1 kB
+Progress (1): 8.1 kB    
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-velocity/1.2/plexus-velocity-1.2.jar (8.1 kB at 25 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-digester/commons-digester/1.8/commons-digester-1.8.jar
+Progress (1): 7.7/262 kB
+Progress (1): 16/262 kB 
+Progress (1): 20/262 kB
+Progress (1): 36/262 kB
+Progress (1): 53/262 kB
+Progress (1): 69/262 kB
+Progress (1): 86/262 kB
+Progress (1): 102/262 kB
+Progress (1): 118/262 kB
+Progress (1): 135/262 kB
+Progress (1): 151/262 kB
+Progress (1): 168/262 kB
+Progress (1): 184/262 kB
+Progress (1): 200/262 kB
+Progress (1): 217/262 kB
+Progress (1): 233/262 kB
+Progress (1): 249/262 kB
+Progress (1): 262 kB    
+Progress (2): 262 kB | 3.7/144 kB
+Progress (2): 262 kB | 20/144 kB 
+Progress (2): 262 kB | 36/144 kB
+Progress (2): 262 kB | 53/144 kB
+Progress (2): 262 kB | 69/144 kB
+Progress (2): 262 kB | 86/144 kB
+Progress (2): 262 kB | 102/144 kB
+Progress (2): 262 kB | 118/144 kB
+Progress (2): 262 kB | 135/144 kB
+Progress (2): 262 kB | 144 kB    
+                             
+Downloaded from central: https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.4/commons-lang-2.4.jar (262 kB at 754 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-chain/commons-chain/1.1/commons-chain-1.1.jar
+Progress (2): 144 kB | 7.7/347 kB
+Progress (2): 144 kB | 16/347 kB 
+Progress (2): 144 kB | 20/347 kB
+Progress (2): 144 kB | 36/347 kB
+Progress (2): 144 kB | 53/347 kB
+Progress (2): 144 kB | 69/347 kB
+Progress (2): 144 kB | 86/347 kB
+Progress (2): 144 kB | 102/347 kB
+Progress (2): 144 kB | 118/347 kB
+                                 
+Downloaded from central: https://repo.maven.apache.org/maven2/commons-digester/commons-digester/1.8/commons-digester-1.8.jar (144 kB at 413 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/dom4j/dom4j/1.1/dom4j-1.1.jar
+Progress (1): 135/347 kB
+Progress (1): 151/347 kB
+Progress (1): 168/347 kB
+Progress (1): 184/347 kB
+Progress (1): 200/347 kB
+Progress (1): 217/347 kB
+Progress (1): 233/347 kB
+Progress (1): 249/347 kB
+Progress (1): 266/347 kB
+Progress (1): 282/347 kB
+Progress (1): 299/347 kB
+Progress (1): 315/347 kB
+Progress (1): 331/347 kB
+Progress (1): 347 kB    
+Progress (2): 347 kB | 16/189 kB
+Progress (2): 347 kB | 25/189 kB
+Progress (2): 347 kB | 41/189 kB
+Progress (2): 347 kB | 57/189 kB
+Progress (2): 347 kB | 74/189 kB
+Progress (2): 347 kB | 90/189 kB
+Progress (2): 347 kB | 106/189 kB
+Progress (2): 347 kB | 123/189 kB
+Progress (2): 347 kB | 139/189 kB
+Progress (2): 347 kB | 156/189 kB
+Progress (2): 347 kB | 172/189 kB
+                                 
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/velocity/velocity-tools/2.0/velocity-tools-2.0.jar (347 kB at 976 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/oro/oro/2.0.8/oro-2.0.8.jar
+Progress (1): 188/189 kB
+Progress (1): 189 kB    
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0.jar (189 kB at 527 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.6.0/plexus-archiver-4.6.0.jar
+Progress (1): 7.7/450 kB
+Progress (1): 16/450 kB 
+Progress (1): 25/450 kB
+Progress (1): 41/450 kB
+Progress (1): 57/450 kB
+Progress (1): 74/450 kB
+Progress (1): 90/450 kB
+Progress (1): 106/450 kB
+Progress (1): 123/450 kB
+Progress (1): 139/450 kB
+Progress (1): 156/450 kB
+Progress (1): 172/450 kB
+Progress (1): 188/450 kB
+Progress (1): 205/450 kB
+Progress (1): 221/450 kB
+Progress (1): 238/450 kB
+Progress (1): 254/450 kB
+Progress (1): 270/450 kB
+Progress (1): 276/450 kB
+Progress (1): 293/450 kB
+Progress (1): 309/450 kB
+Progress (1): 326/450 kB
+Progress (1): 342/450 kB
+Progress (1): 358/450 kB
+Progress (1): 375/450 kB
+Progress (1): 391/450 kB
+Progress (1): 408/450 kB
+Progress (1): 424/450 kB
+Progress (1): 440/450 kB
+Progress (1): 450 kB    
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/velocity/velocity/1.7/velocity-1.7.jar (450 kB at 1.2 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar
+Progress (1): 7.7/457 kB
+Progress (1): 16/457 kB 
+Progress (1): 20/457 kB
+Progress (1): 37/457 kB
+Progress (1): 53/457 kB
+Progress (1): 69/457 kB
+Progress (1): 86/457 kB
+Progress (1): 102/457 kB
+Progress (1): 118/457 kB
+Progress (1): 135/457 kB
+Progress (1): 151/457 kB
+Progress (1): 168/457 kB
+Progress (1): 184/457 kB
+Progress (1): 200/457 kB
+Progress (1): 217/457 kB
+Progress (1): 233/457 kB
+Progress (2): 233/457 kB | 7.7/90 kB
+Progress (2): 233/457 kB | 16/90 kB 
+Progress (2): 250/457 kB | 16/90 kB
+Progress (2): 266/457 kB | 16/90 kB
+Progress (2): 266/457 kB | 25/90 kB
+Progress (2): 266/457 kB | 41/90 kB
+Progress (2): 266/457 kB | 57/90 kB
+Progress (2): 266/457 kB | 74/90 kB
+Progress (2): 266/457 kB | 90 kB   
+Progress (2): 282/457 kB | 90 kB
+Progress (2): 299/457 kB | 90 kB
+Progress (2): 315/457 kB | 90 kB
+Progress (2): 331/457 kB | 90 kB
+Progress (2): 348/457 kB | 90 kB
+Progress (2): 364/457 kB | 90 kB
+Progress (2): 381/457 kB | 90 kB
+Progress (2): 397/457 kB | 90 kB
+Progress (2): 413/457 kB | 90 kB
+                                
+Downloaded from central: https://repo.maven.apache.org/maven2/commons-chain/commons-chain/1.1/commons-chain-1.1.jar (90 kB at 236 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/github/luben/zstd-jni/1.5.2-5/zstd-jni-1.5.2-5.jar
+Progress (1): 430/457 kB
+Progress (1): 446/457 kB
+Progress (1): 457 kB    
+Progress (2): 457 kB | 7.7/65 kB
+Progress (2): 457 kB | 16/65 kB 
+Progress (2): 457 kB | 25/65 kB
+Progress (2): 457 kB | 41/65 kB
+Progress (2): 457 kB | 57/65 kB
+Progress (2): 457 kB | 65 kB   
+Progress (3): 457 kB | 65 kB | 8.2/216 kB
+Progress (3): 457 kB | 65 kB | 25/216 kB 
+                                        
+Downloaded from central: https://repo.maven.apache.org/maven2/dom4j/dom4j/1.1/dom4j-1.1.jar (457 kB at 1.2 MB/s)
+Progress (2): 65 kB | 41/216 kB
+                               
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.5.0/plexus-utils-3.5.0.jar
+Progress (2): 65 kB | 57/216 kB
+Progress (2): 65 kB | 70/216 kB
+Progress (2): 65 kB | 86/216 kB
+                               
+Downloaded from central: https://repo.maven.apache.org/maven2/oro/oro/2.0.8/oro-2.0.8.jar (65 kB at 169 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.4.0/plexus-io-3.4.0.jar
+Progress (1): 102/216 kB
+Progress (1): 106/216 kB
+Progress (1): 123/216 kB
+Progress (1): 135/216 kB
+Progress (1): 152/216 kB
+Progress (1): 168/216 kB
+Progress (1): 176/216 kB
+Progress (1): 193/216 kB
+Progress (1): 209/216 kB
+Progress (1): 216 kB    
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.6.0/plexus-archiver-4.6.0.jar (216 kB at 552 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-dependency-analyzer/1.13.0/maven-dependency-analyzer-1.13.0.jar
+Progress (1): 0/1.0 MB
+Progress (1): 0/1.0 MB
+Progress (1): 0/1.0 MB
+Progress (1): 0/1.0 MB
+Progress (1): 0.1/1.0 MB
+Progress (1): 0.1/1.0 MB
+Progress (1): 0.1/1.0 MB
+Progress (1): 0.1/1.0 MB
+Progress (1): 0.1/1.0 MB
+Progress (1): 0.1/1.0 MB
+Progress (1): 0.1/1.0 MB
+Progress (1): 0.2/1.0 MB
+Progress (1): 0.2/1.0 MB
+Progress (1): 0.2/1.0 MB
+Progress (1): 0.2/1.0 MB
+Progress (1): 0.2/1.0 MB
+Progress (1): 0.2/1.0 MB
+Progress (1): 0.3/1.0 MB
+Progress (1): 0.3/1.0 MB
+Progress (1): 0.3/1.0 MB
+Progress (1): 0.3/1.0 MB
+Progress (1): 0.3/1.0 MB
+Progress (1): 0.3/1.0 MB
+Progress (1): 0.3/1.0 MB
+Progress (1): 0.3/1.0 MB
+Progress (1): 0.3/1.0 MB
+Progress (1): 0.4/1.0 MB
+Progress (1): 0.4/1.0 MB
+Progress (1): 0.4/1.0 MB
+Progress (1): 0.4/1.0 MB
+Progress (1): 0.4/1.0 MB
+Progress (1): 0.4/1.0 MB
+Progress (1): 0.4/1.0 MB
+Progress (1): 0.4/1.0 MB
+Progress (1): 0.5/1.0 MB
+Progress (1): 0.5/1.0 MB
+Progress (1): 0.5/1.0 MB
+Progress (1): 0.5/1.0 MB
+Progress (1): 0.5/1.0 MB
+Progress (1): 0.5/1.0 MB
+Progress (1): 0.6/1.0 MB
+Progress (1): 0.6/1.0 MB
+Progress (1): 0.6/1.0 MB
+Progress (1): 0.6/1.0 MB
+Progress (1): 0.6/1.0 MB
+Progress (1): 0.6/1.0 MB
+Progress (1): 0.7/1.0 MB
+Progress (1): 0.7/1.0 MB
+Progress (1): 0.7/1.0 MB
+Progress (1): 0.7/1.0 MB
+Progress (1): 0.7/1.0 MB
+Progress (1): 0.7/1.0 MB
+Progress (1): 0.8/1.0 MB
+Progress (1): 0.8/1.0 MB
+Progress (1): 0.8/1.0 MB
+Progress (1): 0.8/1.0 MB
+Progress (1): 0.8/1.0 MB
+Progress (1): 0.8/1.0 MB
+Progress (1): 0.9/1.0 MB
+Progress (1): 0.9/1.0 MB
+Progress (1): 0.9/1.0 MB
+Progress (2): 0.9/1.0 MB | 0/6.3 MB
+Progress (2): 0.9/1.0 MB | 0/6.3 MB
+Progress (2): 0.9/1.0 MB | 0/6.3 MB
+Progress (2): 0.9/1.0 MB | 0/6.3 MB
+Progress (2): 0.9/1.0 MB | 0/6.3 MB
+Progress (3): 0.9/1.0 MB | 0/6.3 MB | 7.7/79 kB
+Progress (3): 0.9/1.0 MB | 0.1/6.3 MB | 7.7/79 kB
+Progress (3): 0.9/1.0 MB | 0.1/6.3 MB | 16/79 kB 
+Progress (3): 0.9/1.0 MB | 0.1/6.3 MB | 25/79 kB
+Progress (3): 0.9/1.0 MB | 0.1/6.3 MB | 41/79 kB
+Progress (3): 0.9/1.0 MB | 0.1/6.3 MB | 41/79 kB
+Progress (3): 0.9/1.0 MB | 0.1/6.3 MB | 41/79 kB
+Progress (3): 0.9/1.0 MB | 0.1/6.3 MB | 57/79 kB
+Progress (3): 0.9/1.0 MB | 0.1/6.3 MB | 74/79 kB
+Progress (3): 0.9/1.0 MB | 0.1/6.3 MB | 74/79 kB
+Progress (3): 0.9/1.0 MB | 0.1/6.3 MB | 79 kB   
+Progress (3): 0.9/1.0 MB | 0.1/6.3 MB | 79 kB
+Progress (3): 0.9/1.0 MB | 0.1/6.3 MB | 79 kB
+Progress (3): 0.9/1.0 MB | 0.2/6.3 MB | 79 kB
+Progress (3): 0.9/1.0 MB | 0.2/6.3 MB | 79 kB
+Progress (3): 0.9/1.0 MB | 0.2/6.3 MB | 79 kB
+Progress (3): 0.9/1.0 MB | 0.2/6.3 MB | 79 kB
+Progress (3): 0.9/1.0 MB | 0.2/6.3 MB | 79 kB
+Progress (3): 0.9/1.0 MB | 0.2/6.3 MB | 79 kB
+                                             
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.4.0/plexus-io-3.4.0.jar (79 kB at 187 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.3/asm-9.3.jar
+Progress (2): 0.9/1.0 MB | 0.3/6.3 MB
+Progress (2): 0.9/1.0 MB | 0.3/6.3 MB
+Progress (2): 0.9/1.0 MB | 0.3/6.3 MB
+Progress (2): 0.9/1.0 MB | 0.3/6.3 MB
+Progress (2): 0.9/1.0 MB | 0.3/6.3 MB
+Progress (2): 0.9/1.0 MB | 0.3/6.3 MB
+Progress (2): 0.9/1.0 MB | 0.3/6.3 MB
+Progress (2): 0.9/1.0 MB | 0.4/6.3 MB
+Progress (2): 0.9/1.0 MB | 0.4/6.3 MB
+Progress (2): 0.9/1.0 MB | 0.4/6.3 MB
+Progress (2): 1.0/1.0 MB | 0.4/6.3 MB
+Progress (2): 1.0/1.0 MB | 0.4/6.3 MB
+Progress (2): 1.0/1.0 MB | 0.4/6.3 MB
+Progress (2): 1.0/1.0 MB | 0.4/6.3 MB
+Progress (2): 1.0/1.0 MB | 0.4/6.3 MB
+Progress (2): 1.0 MB | 0.4/6.3 MB    
+Progress (2): 1.0 MB | 0.4/6.3 MB
+Progress (2): 1.0 MB | 0.4/6.3 MB
+Progress (2): 1.0 MB | 0.4/6.3 MB
+Progress (3): 1.0 MB | 0.4/6.3 MB | 3.7/37 kB
+Progress (3): 1.0 MB | 0.4/6.3 MB | 20/37 kB 
+Progress (3): 1.0 MB | 0.4/6.3 MB | 36/37 kB
+Progress (3): 1.0 MB | 0.4/6.3 MB | 37 kB   
+                                         
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar (1.0 MB at 2.4 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.3.4/maven-shared-utils-3.3.4.jar
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-dependency-analyzer/1.13.0/maven-dependency-analyzer-1.13.0.jar (37 kB at 86 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.2/commons-collections4-4.2.jar
+Progress (2): 0.4/6.3 MB | 7.7/267 kB
+Progress (2): 0.4/6.3 MB | 16/267 kB 
+Progress (2): 0.4/6.3 MB | 25/267 kB
+Progress (2): 0.4/6.3 MB | 41/267 kB
+Progress (2): 0.4/6.3 MB | 41/267 kB
+Progress (2): 0.4/6.3 MB | 41/267 kB
+Progress (2): 0.5/6.3 MB | 41/267 kB
+Progress (2): 0.5/6.3 MB | 57/267 kB
+Progress (2): 0.5/6.3 MB | 57/267 kB
+Progress (2): 0.5/6.3 MB | 74/267 kB
+Progress (2): 0.5/6.3 MB | 90/267 kB
+Progress (2): 0.5/6.3 MB | 90/267 kB
+Progress (2): 0.5/6.3 MB | 90/267 kB
+Progress (2): 0.5/6.3 MB | 90/267 kB
+Progress (2): 0.5/6.3 MB | 90/267 kB
+Progress (2): 0.6/6.3 MB | 90/267 kB
+Progress (2): 0.6/6.3 MB | 90/267 kB
+Progress (2): 0.6/6.3 MB | 90/267 kB
+Progress (2): 0.6/6.3 MB | 90/267 kB
+Progress (2): 0.6/6.3 MB | 90/267 kB
+Progress (2): 0.6/6.3 MB | 90/267 kB
+Progress (2): 0.7/6.3 MB | 90/267 kB
+Progress (2): 0.7/6.3 MB | 90/267 kB
+Progress (2): 0.7/6.3 MB | 90/267 kB
+Progress (2): 0.7/6.3 MB | 90/267 kB
+Progress (2): 0.7/6.3 MB | 90/267 kB
+Progress (2): 0.7/6.3 MB | 90/267 kB
+Progress (2): 0.8/6.3 MB | 90/267 kB
+Progress (2): 0.8/6.3 MB | 90/267 kB
+Progress (2): 0.8/6.3 MB | 90/267 kB
+Progress (2): 0.8/6.3 MB | 90/267 kB
+Progress (2): 0.8/6.3 MB | 90/267 kB
+Progress (2): 0.8/6.3 MB | 90/267 kB
+Progress (2): 0.9/6.3 MB | 90/267 kB
+Progress (2): 0.9/6.3 MB | 90/267 kB
+Progress (2): 0.9/6.3 MB | 90/267 kB
+Progress (2): 0.9/6.3 MB | 90/267 kB
+Progress (2): 0.9/6.3 MB | 90/267 kB
+Progress (2): 0.9/6.3 MB | 90/267 kB
+Progress (2): 1.0/6.3 MB | 90/267 kB
+Progress (2): 1.0/6.3 MB | 106/267 kB
+Progress (2): 1.0/6.3 MB | 123/267 kB
+Progress (2): 1.0/6.3 MB | 139/267 kB
+Progress (2): 1.0/6.3 MB | 139/267 kB
+Progress (2): 1.0/6.3 MB | 139/267 kB
+Progress (2): 1.0/6.3 MB | 139/267 kB
+Progress (2): 1.0/6.3 MB | 139/267 kB
+Progress (2): 1.0/6.3 MB | 139/267 kB
+Progress (2): 1.0/6.3 MB | 156/267 kB
+Progress (2): 1.0/6.3 MB | 172/267 kB
+Progress (2): 1.0/6.3 MB | 188/267 kB
+Progress (2): 1.0/6.3 MB | 205/267 kB
+Progress (2): 1.0/6.3 MB | 205/267 kB
+Progress (2): 1.1/6.3 MB | 205/267 kB
+Progress (2): 1.1/6.3 MB | 205/267 kB
+Progress (2): 1.1/6.3 MB | 221/267 kB
+Progress (2): 1.1/6.3 MB | 221/267 kB
+Progress (2): 1.1/6.3 MB | 221/267 kB
+Progress (2): 1.1/6.3 MB | 221/267 kB
+Progress (2): 1.1/6.3 MB | 221/267 kB
+Progress (2): 1.2/6.3 MB | 221/267 kB
+Progress (2): 1.2/6.3 MB | 221/267 kB
+Progress (2): 1.2/6.3 MB | 221/267 kB
+Progress (2): 1.2/6.3 MB | 221/267 kB
+Progress (2): 1.2/6.3 MB | 221/267 kB
+Progress (2): 1.2/6.3 MB | 221/267 kB
+Progress (2): 1.3/6.3 MB | 221/267 kB
+Progress (2): 1.3/6.3 MB | 221/267 kB
+Progress (2): 1.3/6.3 MB | 221/267 kB
+Progress (2): 1.3/6.3 MB | 221/267 kB
+Progress (2): 1.3/6.3 MB | 221/267 kB
+Progress (2): 1.3/6.3 MB | 221/267 kB
+Progress (2): 1.4/6.3 MB | 221/267 kB
+Progress (2): 1.4/6.3 MB | 221/267 kB
+Progress (2): 1.4/6.3 MB | 221/267 kB
+Progress (2): 1.4/6.3 MB | 221/267 kB
+Progress (2): 1.4/6.3 MB | 221/267 kB
+Progress (2): 1.4/6.3 MB | 221/267 kB
+Progress (2): 1.4/6.3 MB | 221/267 kB
+Progress (2): 1.5/6.3 MB | 221/267 kB
+Progress (2): 1.5/6.3 MB | 221/267 kB
+Progress (2): 1.5/6.3 MB | 221/267 kB
+Progress (2): 1.5/6.3 MB | 221/267 kB
+Progress (2): 1.5/6.3 MB | 221/267 kB
+Progress (2): 1.5/6.3 MB | 221/267 kB
+Progress (2): 1.6/6.3 MB | 221/267 kB
+Progress (2): 1.6/6.3 MB | 221/267 kB
+Progress (2): 1.6/6.3 MB | 221/267 kB
+Progress (2): 1.6/6.3 MB | 221/267 kB
+Progress (2): 1.6/6.3 MB | 221/267 kB
+Progress (2): 1.6/6.3 MB | 221/267 kB
+Progress (2): 1.7/6.3 MB | 221/267 kB
+Progress (2): 1.7/6.3 MB | 221/267 kB
+Progress (2): 1.7/6.3 MB | 221/267 kB
+Progress (2): 1.7/6.3 MB | 221/267 kB
+Progress (2): 1.7/6.3 MB | 221/267 kB
+Progress (2): 1.7/6.3 MB | 221/267 kB
+Progress (2): 1.8/6.3 MB | 221/267 kB
+Progress (2): 1.8/6.3 MB | 238/267 kB
+Progress (2): 1.8/6.3 MB | 238/267 kB
+Progress (2): 1.8/6.3 MB | 238/267 kB
+Progress (2): 1.8/6.3 MB | 238/267 kB
+Progress (2): 1.8/6.3 MB | 238/267 kB
+Progress (2): 1.8/6.3 MB | 254/267 kB
+Progress (2): 1.8/6.3 MB | 267 kB    
+Progress (3): 1.8/6.3 MB | 267 kB | 7.7/122 kB
+Progress (3): 1.8/6.3 MB | 267 kB | 16/122 kB 
+Progress (3): 1.8/6.3 MB | 267 kB | 20/122 kB
+Progress (3): 1.8/6.3 MB | 267 kB | 36/122 kB
+Progress (3): 1.8/6.3 MB | 267 kB | 53/122 kB
+Progress (3): 1.8/6.3 MB | 267 kB | 69/122 kB
+Progress (3): 1.8/6.3 MB | 267 kB | 86/122 kB
+Progress (3): 1.8/6.3 MB | 267 kB | 102/122 kB
+Progress (3): 1.8/6.3 MB | 267 kB | 118/122 kB
+Progress (3): 1.8/6.3 MB | 267 kB | 122 kB    
+Progress (3): 1.8/6.3 MB | 267 kB | 122 kB
+Progress (3): 1.9/6.3 MB | 267 kB | 122 kB
+Progress (3): 1.9/6.3 MB | 267 kB | 122 kB
+                                          
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.5.0/plexus-utils-3.5.0.jar (267 kB at 575 kB/s)
+Progress (2): 1.9/6.3 MB | 122 kB
+Progress (2): 1.9/6.3 MB | 122 kB
+Progress (2): 1.9/6.3 MB | 122 kB
+Progress (2): 1.9/6.3 MB | 122 kB
+Progress (2): 1.9/6.3 MB | 122 kB
+                                 
+Downloaded from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.3/asm-9.3.jar (122 kB at 262 kB/s)
+Progress (2): 1.9/6.3 MB | 7.7/153 kB
+Progress (2): 1.9/6.3 MB | 11/153 kB 
+Progress (2): 1.9/6.3 MB | 28/153 kB
+Progress (2): 1.9/6.3 MB | 44/153 kB
+Progress (2): 1.9/6.3 MB | 61/153 kB
+Progress (2): 1.9/6.3 MB | 77/153 kB
+Progress (2): 2.0/6.3 MB | 77/153 kB
+Progress (2): 2.0/6.3 MB | 77/153 kB
+Progress (2): 2.0/6.3 MB | 77/153 kB
+Progress (2): 2.0/6.3 MB | 77/153 kB
+Progress (2): 2.0/6.3 MB | 93/153 kB
+Progress (2): 2.0/6.3 MB | 110/153 kB
+Progress (2): 2.0/6.3 MB | 110/153 kB
+Progress (2): 2.0/6.3 MB | 110/153 kB
+Progress (2): 2.1/6.3 MB | 110/153 kB
+Progress (2): 2.1/6.3 MB | 110/153 kB
+Progress (2): 2.1/6.3 MB | 110/153 kB
+Progress (2): 2.1/6.3 MB | 110/153 kB
+Progress (2): 2.1/6.3 MB | 110/153 kB
+Progress (2): 2.1/6.3 MB | 110/153 kB
+Progress (2): 2.2/6.3 MB | 110/153 kB
+Progress (2): 2.2/6.3 MB | 110/153 kB
+Progress (2): 2.2/6.3 MB | 110/153 kB
+Progress (2): 2.2/6.3 MB | 110/153 kB
+Progress (2): 2.2/6.3 MB | 110/153 kB
+Progress (3): 2.2/6.3 MB | 110/153 kB | 7.7/753 kB
+Progress (3): 2.2/6.3 MB | 110/153 kB | 16/753 kB 
+Progress (3): 2.2/6.3 MB | 110/153 kB | 25/753 kB
+Progress (3): 2.2/6.3 MB | 110/153 kB | 41/753 kB
+Progress (3): 2.2/6.3 MB | 110/153 kB | 57/753 kB
+Progress (3): 2.2/6.3 MB | 110/153 kB | 74/753 kB
+Progress (3): 2.2/6.3 MB | 110/153 kB | 90/753 kB
+Progress (3): 2.2/6.3 MB | 110/153 kB | 106/753 kB
+Progress (3): 2.2/6.3 MB | 110/153 kB | 123/753 kB
+Progress (3): 2.2/6.3 MB | 110/153 kB | 131/753 kB
+Progress (3): 2.2/6.3 MB | 110/153 kB | 131/753 kB
+Progress (3): 2.2/6.3 MB | 110/153 kB | 147/753 kB
+Progress (3): 2.2/6.3 MB | 110/153 kB | 164/753 kB
+Progress (3): 2.2/6.3 MB | 110/153 kB | 172/753 kB
+Progress (3): 2.2/6.3 MB | 110/153 kB | 180/753 kB
+Progress (3): 2.2/6.3 MB | 110/153 kB | 197/753 kB
+Progress (3): 2.2/6.3 MB | 110/153 kB | 205/753 kB
+Progress (3): 2.2/6.3 MB | 110/153 kB | 221/753 kB
+Progress (3): 2.2/6.3 MB | 110/153 kB | 238/753 kB
+Progress (3): 2.2/6.3 MB | 110/153 kB | 246/753 kB
+Progress (3): 2.2/6.3 MB | 110/153 kB | 262/753 kB
+Progress (3): 2.2/6.3 MB | 110/153 kB | 270/753 kB
+Progress (3): 2.2/6.3 MB | 110/153 kB | 287/753 kB
+Progress (3): 2.2/6.3 MB | 110/153 kB | 303/753 kB
+Progress (3): 2.2/6.3 MB | 110/153 kB | 311/753 kB
+Progress (3): 2.2/6.3 MB | 110/153 kB | 319/753 kB
+Progress (3): 2.2/6.3 MB | 110/153 kB | 328/753 kB
+Progress (3): 2.2/6.3 MB | 110/153 kB | 344/753 kB
+Progress (3): 2.2/6.3 MB | 110/153 kB | 360/753 kB
+Progress (3): 2.2/6.3 MB | 110/153 kB | 360/753 kB
+Progress (3): 2.3/6.3 MB | 110/153 kB | 360/753 kB
+Progress (3): 2.3/6.3 MB | 110/153 kB | 360/753 kB
+Progress (3): 2.3/6.3 MB | 110/153 kB | 377/753 kB
+Progress (3): 2.3/6.3 MB | 110/153 kB | 393/753 kB
+Progress (3): 2.3/6.3 MB | 110/153 kB | 401/753 kB
+Progress (3): 2.3/6.3 MB | 110/153 kB | 410/753 kB
+Progress (3): 2.3/6.3 MB | 110/153 kB | 418/753 kB
+Progress (3): 2.3/6.3 MB | 110/153 kB | 418/753 kB
+Progress (3): 2.3/6.3 MB | 110/153 kB | 418/753 kB
+Progress (3): 2.3/6.3 MB | 110/153 kB | 418/753 kB
+Progress (3): 2.3/6.3 MB | 110/153 kB | 418/753 kB
+Progress (3): 2.3/6.3 MB | 110/153 kB | 418/753 kB
+Progress (3): 2.4/6.3 MB | 110/153 kB | 418/753 kB
+Progress (3): 2.4/6.3 MB | 110/153 kB | 418/753 kB
+Progress (3): 2.4/6.3 MB | 110/153 kB | 418/753 kB
+Progress (3): 2.4/6.3 MB | 110/153 kB | 418/753 kB
+Progress (3): 2.4/6.3 MB | 110/153 kB | 418/753 kB
+Progress (3): 2.4/6.3 MB | 110/153 kB | 418/753 kB
+Progress (3): 2.5/6.3 MB | 110/153 kB | 418/753 kB
+Progress (3): 2.5/6.3 MB | 110/153 kB | 418/753 kB
+Progress (3): 2.5/6.3 MB | 110/153 kB | 418/753 kB
+Progress (3): 2.5/6.3 MB | 110/153 kB | 418/753 kB
+Progress (3): 2.5/6.3 MB | 110/153 kB | 418/753 kB
+Progress (3): 2.5/6.3 MB | 126/153 kB | 418/753 kB
+Progress (3): 2.5/6.3 MB | 126/153 kB | 418/753 kB
+Progress (3): 2.5/6.3 MB | 142/153 kB | 418/753 kB
+Progress (3): 2.5/6.3 MB | 142/153 kB | 418/753 kB
+Progress (3): 2.5/6.3 MB | 153 kB | 418/753 kB    
+Progress (3): 2.6/6.3 MB | 153 kB | 418/753 kB
+Progress (3): 2.6/6.3 MB | 153 kB | 418/753 kB
+Progress (3): 2.6/6.3 MB | 153 kB | 418/753 kB
+Progress (3): 2.6/6.3 MB | 153 kB | 418/753 kB
+Progress (3): 2.6/6.3 MB | 153 kB | 418/753 kB
+Progress (3): 2.6/6.3 MB | 153 kB | 418/753 kB
+Progress (3): 2.6/6.3 MB | 153 kB | 418/753 kB
+Progress (3): 2.7/6.3 MB | 153 kB | 418/753 kB
+Progress (3): 2.7/6.3 MB | 153 kB | 418/753 kB
+Progress (3): 2.7/6.3 MB | 153 kB | 418/753 kB
+Progress (3): 2.7/6.3 MB | 153 kB | 418/753 kB
+Progress (3): 2.7/6.3 MB | 153 kB | 418/753 kB
+Progress (3): 2.7/6.3 MB | 153 kB | 434/753 kB
+Progress (3): 2.7/6.3 MB | 153 kB | 442/753 kB
+                                              
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.3.4/maven-shared-utils-3.3.4.jar (153 kB at 308 kB/s)
+Progress (2): 2.7/6.3 MB | 459/753 kB
+Progress (2): 2.7/6.3 MB | 459/753 kB
+Progress (2): 2.8/6.3 MB | 459/753 kB
+Progress (2): 2.8/6.3 MB | 459/753 kB
+Progress (2): 2.8/6.3 MB | 459/753 kB
+Progress (2): 2.8/6.3 MB | 459/753 kB
+Progress (2): 2.8/6.3 MB | 475/753 kB
+Progress (2): 2.8/6.3 MB | 475/753 kB
+Progress (2): 2.8/6.3 MB | 475/753 kB
+Progress (2): 2.9/6.3 MB | 475/753 kB
+Progress (2): 2.9/6.3 MB | 475/753 kB
+Progress (2): 2.9/6.3 MB | 492/753 kB
+Progress (2): 2.9/6.3 MB | 492/753 kB
+Progress (2): 2.9/6.3 MB | 492/753 kB
+Progress (2): 2.9/6.3 MB | 492/753 kB
+Progress (2): 2.9/6.3 MB | 492/753 kB
+Progress (2): 3.0/6.3 MB | 492/753 kB
+Progress (2): 3.0/6.3 MB | 492/753 kB
+Progress (2): 3.0/6.3 MB | 508/753 kB
+Progress (2): 3.0/6.3 MB | 508/753 kB
+Progress (2): 3.0/6.3 MB | 524/753 kB
+Progress (2): 3.0/6.3 MB | 524/753 kB
+Progress (2): 3.0/6.3 MB | 541/753 kB
+Progress (2): 3.0/6.3 MB | 541/753 kB
+Progress (2): 3.0/6.3 MB | 541/753 kB
+Progress (2): 3.0/6.3 MB | 541/753 kB
+Progress (2): 3.1/6.3 MB | 541/753 kB
+Progress (2): 3.1/6.3 MB | 541/753 kB
+Progress (2): 3.1/6.3 MB | 541/753 kB
+Progress (2): 3.1/6.3 MB | 557/753 kB
+Progress (2): 3.1/6.3 MB | 557/753 kB
+Progress (2): 3.1/6.3 MB | 557/753 kB
+Progress (2): 3.1/6.3 MB | 557/753 kB
+Progress (2): 3.2/6.3 MB | 557/753 kB
+Progress (2): 3.2/6.3 MB | 557/753 kB
+Progress (2): 3.2/6.3 MB | 557/753 kB
+Progress (2): 3.2/6.3 MB | 557/753 kB
+Progress (2): 3.2/6.3 MB | 557/753 kB
+Progress (2): 3.2/6.3 MB | 557/753 kB
+Progress (2): 3.3/6.3 MB | 557/753 kB
+Progress (2): 3.3/6.3 MB | 557/753 kB
+Progress (2): 3.3/6.3 MB | 557/753 kB
+Progress (2): 3.3/6.3 MB | 573/753 kB
+Progress (2): 3.3/6.3 MB | 582/753 kB
+Progress (2): 3.3/6.3 MB | 598/753 kB
+Progress (2): 3.3/6.3 MB | 606/753 kB
+Progress (2): 3.3/6.3 MB | 614/753 kB
+Progress (2): 3.3/6.3 MB | 631/753 kB
+Progress (2): 3.3/6.3 MB | 639/753 kB
+Progress (2): 3.3/6.3 MB | 655/753 kB
+Progress (2): 3.3/6.3 MB | 672/753 kB
+Progress (2): 3.3/6.3 MB | 688/753 kB
+Progress (2): 3.3/6.3 MB | 705/753 kB
+Progress (2): 3.3/6.3 MB | 713/753 kB
+Progress (2): 3.3/6.3 MB | 729/753 kB
+Progress (2): 3.3/6.3 MB | 745/753 kB
+Progress (2): 3.3/6.3 MB | 753 kB    
+Progress (2): 3.3/6.3 MB | 753 kB
+Progress (2): 3.3/6.3 MB | 753 kB
+Progress (2): 3.3/6.3 MB | 753 kB
+Progress (2): 3.4/6.3 MB | 753 kB
+Progress (2): 3.4/6.3 MB | 753 kB
+Progress (2): 3.4/6.3 MB | 753 kB
+Progress (2): 3.4/6.3 MB | 753 kB
+Progress (2): 3.4/6.3 MB | 753 kB
+Progress (2): 3.4/6.3 MB | 753 kB
+Progress (2): 3.5/6.3 MB | 753 kB
+Progress (2): 3.5/6.3 MB | 753 kB
+Progress (2): 3.5/6.3 MB | 753 kB
+Progress (2): 3.5/6.3 MB | 753 kB
+                                 
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.2/commons-collections4-4.2.jar (753 kB at 1.5 MB/s)
+Progress (1): 3.5/6.3 MB
+Progress (1): 3.5/6.3 MB
+Progress (1): 3.6/6.3 MB
+Progress (1): 3.6/6.3 MB
+Progress (1): 3.6/6.3 MB
+Progress (1): 3.6/6.3 MB
+Progress (1): 3.6/6.3 MB
+Progress (1): 3.6/6.3 MB
+Progress (1): 3.6/6.3 MB
+Progress (1): 3.7/6.3 MB
+Progress (1): 3.7/6.3 MB
+Progress (1): 3.7/6.3 MB
+Progress (1): 3.7/6.3 MB
+Progress (1): 3.7/6.3 MB
+Progress (1): 3.7/6.3 MB
+Progress (1): 3.8/6.3 MB
+Progress (1): 3.8/6.3 MB
+Progress (1): 3.8/6.3 MB
+Progress (1): 3.8/6.3 MB
+Progress (1): 3.8/6.3 MB
+Progress (1): 3.8/6.3 MB
+Progress (1): 3.9/6.3 MB
+Progress (1): 3.9/6.3 MB
+Progress (1): 3.9/6.3 MB
+Progress (1): 3.9/6.3 MB
+Progress (1): 3.9/6.3 MB
+Progress (1): 3.9/6.3 MB
+Progress (1): 4.0/6.3 MB
+Progress (1): 4.0/6.3 MB
+Progress (1): 4.0/6.3 MB
+Progress (1): 4.0/6.3 MB
+Progress (1): 4.0/6.3 MB
+Progress (1): 4.0/6.3 MB
+Progress (1): 4.1/6.3 MB
+Progress (1): 4.1/6.3 MB
+Progress (1): 4.1/6.3 MB
+Progress (1): 4.1/6.3 MB
+Progress (1): 4.1/6.3 MB
+Progress (1): 4.1/6.3 MB
+Progress (1): 4.2/6.3 MB
+Progress (1): 4.2/6.3 MB
+Progress (1): 4.2/6.3 MB
+Progress (1): 4.2/6.3 MB
+Progress (1): 4.2/6.3 MB
+Progress (1): 4.2/6.3 MB
+Progress (1): 4.3/6.3 MB
+Progress (1): 4.3/6.3 MB
+Progress (1): 4.3/6.3 MB
+Progress (1): 4.3/6.3 MB
+Progress (1): 4.3/6.3 MB
+Progress (1): 4.3/6.3 MB
+Progress (1): 4.4/6.3 MB
+Progress (1): 4.4/6.3 MB
+Progress (1): 4.4/6.3 MB
+Progress (1): 4.4/6.3 MB
+Progress (1): 4.4/6.3 MB
+Progress (1): 4.4/6.3 MB
+Progress (1): 4.5/6.3 MB
+Progress (1): 4.5/6.3 MB
+Progress (1): 4.5/6.3 MB
+Progress (1): 4.5/6.3 MB
+Progress (1): 4.5/6.3 MB
+Progress (1): 4.5/6.3 MB
+Progress (1): 4.5/6.3 MB
+Progress (1): 4.6/6.3 MB
+Progress (1): 4.6/6.3 MB
+Progress (1): 4.6/6.3 MB
+Progress (1): 4.6/6.3 MB
+Progress (1): 4.6/6.3 MB
+Progress (1): 4.6/6.3 MB
+Progress (1): 4.7/6.3 MB
+Progress (1): 4.7/6.3 MB
+Progress (1): 4.7/6.3 MB
+Progress (1): 4.7/6.3 MB
+Progress (1): 4.7/6.3 MB
+Progress (1): 4.7/6.3 MB
+Progress (1): 4.8/6.3 MB
+Progress (1): 4.8/6.3 MB
+Progress (1): 4.8/6.3 MB
+Progress (1): 4.8/6.3 MB
+Progress (1): 4.8/6.3 MB
+Progress (1): 4.8/6.3 MB
+Progress (1): 4.9/6.3 MB
+Progress (1): 4.9/6.3 MB
+Progress (1): 4.9/6.3 MB
+Progress (1): 4.9/6.3 MB
+Progress (1): 4.9/6.3 MB
+Progress (1): 4.9/6.3 MB
+Progress (1): 5.0/6.3 MB
+Progress (1): 5.0/6.3 MB
+Progress (1): 5.0/6.3 MB
+Progress (1): 5.0/6.3 MB
+Progress (1): 5.0/6.3 MB
+Progress (1): 5.0/6.3 MB
+Progress (1): 5.1/6.3 MB
+Progress (1): 5.1/6.3 MB
+Progress (1): 5.1/6.3 MB
+Progress (1): 5.1/6.3 MB
+Progress (1): 5.1/6.3 MB
+Progress (1): 5.1/6.3 MB
+Progress (1): 5.2/6.3 MB
+Progress (1): 5.2/6.3 MB
+Progress (1): 5.2/6.3 MB
+Progress (1): 5.2/6.3 MB
+Progress (1): 5.2/6.3 MB
+Progress (1): 5.2/6.3 MB
+Progress (1): 5.3/6.3 MB
+Progress (1): 5.3/6.3 MB
+Progress (1): 5.3/6.3 MB
+Progress (1): 5.3/6.3 MB
+Progress (1): 5.3/6.3 MB
+Progress (1): 5.3/6.3 MB
+Progress (1): 5.4/6.3 MB
+Progress (1): 5.4/6.3 MB
+Progress (1): 5.4/6.3 MB
+Progress (1): 5.4/6.3 MB
+Progress (1): 5.4/6.3 MB
+Progress (1): 5.4/6.3 MB
+Progress (1): 5.5/6.3 MB
+Progress (1): 5.5/6.3 MB
+Progress (1): 5.5/6.3 MB
+Progress (1): 5.5/6.3 MB
+Progress (1): 5.5/6.3 MB
+Progress (1): 5.5/6.3 MB
+Progress (1): 5.5/6.3 MB
+Progress (1): 5.6/6.3 MB
+Progress (1): 5.6/6.3 MB
+Progress (1): 5.6/6.3 MB
+Progress (1): 5.6/6.3 MB
+Progress (1): 5.6/6.3 MB
+Progress (1): 5.6/6.3 MB
+Progress (1): 5.6/6.3 MB
+Progress (1): 5.7/6.3 MB
+Progress (1): 5.7/6.3 MB
+Progress (1): 5.7/6.3 MB
+Progress (1): 5.7/6.3 MB
+Progress (1): 5.7/6.3 MB
+Progress (1): 5.7/6.3 MB
+Progress (1): 5.8/6.3 MB
+Progress (1): 5.8/6.3 MB
+Progress (1): 5.8/6.3 MB
+Progress (1): 5.8/6.3 MB
+Progress (1): 5.8/6.3 MB
+Progress (1): 5.8/6.3 MB
+Progress (1): 5.9/6.3 MB
+Progress (1): 5.9/6.3 MB
+Progress (1): 5.9/6.3 MB
+Progress (1): 5.9/6.3 MB
+Progress (1): 5.9/6.3 MB
+Progress (1): 5.9/6.3 MB
+Progress (1): 6.0/6.3 MB
+Progress (1): 6.0/6.3 MB
+Progress (1): 6.0/6.3 MB
+Progress (1): 6.0/6.3 MB
+Progress (1): 6.0/6.3 MB
+Progress (1): 6.0/6.3 MB
+Progress (1): 6.1/6.3 MB
+Progress (1): 6.1/6.3 MB
+Progress (1): 6.1/6.3 MB
+Progress (1): 6.1/6.3 MB
+Progress (1): 6.1/6.3 MB
+Progress (1): 6.1/6.3 MB
+Progress (1): 6.2/6.3 MB
+Progress (1): 6.2/6.3 MB
+Progress (1): 6.2/6.3 MB
+Progress (1): 6.2/6.3 MB
+Progress (1): 6.2/6.3 MB
+Progress (1): 6.2/6.3 MB
+Progress (1): 6.3/6.3 MB
+Progress (1): 6.3/6.3 MB
+Progress (1): 6.3/6.3 MB
+Progress (1): 6.3 MB    
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/com/github/luben/zstd-jni/1.5.2-5/zstd-jni-1.5.2-5.jar (6.3 MB at 11 MB/s)
+[INFO] com.myproject:desafio-itau:jar:0.0.1-SNAPSHOT
+[INFO] \- org.springdoc:springdoc-openapi-starter-webmvc-ui:jar:2.5.0:compile
+[INFO]    \- org.springdoc:springdoc-openapi-starter-webmvc-api:jar:2.5.0:compile
+[INFO]       \- org.springdoc:springdoc-openapi-starter-common:jar:2.5.0:compile
+[INFO]          \- io.swagger.core.v3:swagger-core-jakarta:jar:2.2.21:compile
+[INFO]             +- io.swagger.core.v3:swagger-annotations-jakarta:jar:2.2.21:compile
+[INFO]             \- io.swagger.core.v3:swagger-models-jakarta:jar:2.2.21:compile
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  8.638 s
+[INFO] Finished at: 2025-11-15T00:42:51-03:00
+[INFO] ------------------------------------------------------------------------
